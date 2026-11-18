@@ -52,6 +52,8 @@ The business list comes from the spreadsheet in `data/`. To update:
 2. Upload the new version to the design project and ask for a refresh. A new `index.html` and `data/whats-open-data.js` are produced.
 3. Replace both files in this repo, commit, and push. GitHub Pages republishes automatically. Squarespace needs no changes.
 
+Business locations are not taken from the spreadsheet's latitude/longitude. `scripts/load_business_data.py` reads each business's **Display address** column and `scripts/geocode_addresses.py` places it using Olmsted County's official address points (falls back to Nominatim/OpenStreetMap, then the US Census geocoder, then the existing coordinates). To re-place businesses without reloading the workbook, run `py scripts/geocode_addresses.py` (add `--dry-run` to preview). Use `--no-geocode` on the loader to keep the workbook's coordinates.
+
 City street-maintenance impacts, road and sidewalk closures, and parking load live from City of Rochester ArcGIS services each time the map opens, so they do not need manual updates.
 
 ## Updating the sidewalk network

@@ -9,7 +9,11 @@ Workbook categories are grouped into the map's three filter chips (Food & drink,
 
 Only these workbook columns are read (header names are matched loosely, any column can be missing):
     Business ID, Business name, Category, Subcategory, Description, Latitude, Longitude,
-    Business hours from site, Hours verification status
+    Business hours from site, Hours verification status, Display address
+
+After the columns are copied, each business with an address is re-placed from Olmsted County's address points
+(geocode_addresses.py), replacing the workbook's latitude/longitude. Pass --no-geocode to keep the workbook's
+coordinates instead; businesses without an address always keep the workbook's (or existing) coordinates.
 
 The workbook is the complete list. Each run makes the map's businesses match it:
   - a business in data/whats-open-data.js that is not in the workbook is REMOVED (and stays gone: it only comes
@@ -51,6 +55,7 @@ COLUMNS = {
     "lng": ("longitude", "lng", "long", "lon"),
     "hours": ("business hours from site", "business hours", "hours"),
     "hoursVerification": ("hours verification status",),
+    "address": ("display address",),
 }
 # The map has three filter chips. Workbook categories are grouped into them; the original wording is kept
 # in the business's "category" field for display and search.
@@ -132,7 +137,7 @@ def find_business(businesses, record, claimed):
 def apply_record(business, record):
     """Copy the workbook's values onto the business, blanks included. Returns the list of fields that changed."""
     updates = {}
-    for field in ("name", "category", "subcategory", "description", "hoursVerification"):
+    for field in ("name", "category", "subcategory", "description", "hoursVerification", "address"):
         if field in record:  # the column exists in the workbook: its value wins, even when blank
             updates[field] = clean(record[field])
     if "hours" in record:
@@ -194,6 +199,8 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("workbook", nargs="?", type=Path, help="downloaded .xlsx/.xlsm (default: newest in data/)")
     parser.add_argument("--dry-run", action="store_true", help="show the changes without writing any file")
+    parser.add_argument("--no-geocode", action="store_true",
+                        help="keep the workbook's coordinates instead of re-placing businesses from their addresses")
     args = parser.parse_args()
 
     workbook = args.workbook or newest_workbook()
@@ -209,7 +216,8 @@ def main():
             if changed:
                 updated += 1
                 print(f"  updated {business['name']}: {', '.join(changed)}")
-        elif to_coord(record.get("lat"), -90, 90) is not None and to_coord(record.get("lng"), -180, 180) is not None:
+        elif (to_coord(record.get("lat"), -90, 90) is not None and to_coord(record.get("lng"), -180, 180) is not None) \
+                or (clean(record.get("address")) and not args.no_geocode):  # an address is enough: it gets geocoded below
             business = {"id": clean(record.get("id")) or slug(clean(record["name"])), "name": clean(record["name"]),
                         "status": "Open during construction", "cats": []}
             apply_record(business, record)
@@ -220,6 +228,19 @@ def main():
         else:
             skipped += 1
             print(f"  skipped {clean(record['name'])}: new business without latitude/longitude (can't be placed on the map)")
+    if not args.no_geocode:  # exact positions from the county address points override the workbook coordinates
+        from geocode_addresses import geocode_businesses  # imported here: that module imports this one
+        print("Geocoding from addresses (see geocode_addresses.py):")
+        moved, unmatched, no_address = geocode_businesses(in_sheet, dry_run=args.dry_run)
+        for line in moved:
+            print("  " + line)
+        for line in unmatched:
+            print("  NO MATCH (kept workbook coordinates): " + line)
+        print(f"  {len(moved)} moved, {len(unmatched)} without a match, {no_address} without an address (kept workbook coordinates)")
+        for b in [b for b in in_sheet if b.get("lat") is None or b.get("lng") is None]:  # new, and no address match
+            in_sheet.remove(b)
+            added -= 1
+            print(f"  skipped {b['name']}: no coordinates and its address could not be geocoded")
     keep = {id(b) for b in in_sheet}
     removed = [b for b in businesses if id(b) not in keep]
     for b in removed:

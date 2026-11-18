@@ -14,7 +14,7 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Medical equipment",
    "addressSource": "1117 2nd Street SW, Rochester, MN 55902",
    "address": "1117 2nd Street SW, Rochester, MN 55902",
-   "geocodeStatus": "Geocoded via Mapbox (rooftop)",
+   "geocodeStatus": "Geocoded from Olmsted County address points",
    "status": "Open during construction",
    "description": "Anderson Wheelchair, located directly across from Rochester Mayo Clinic St. Marys Hospital Facility, supplies a complete line of home medical equipment and supplies. Wheelchairs remain their specialty.",
    "accessNotes": "Customers can access Anderson Wheelchair via the pedestrian walkway. Access to and from Mayo's St. Marys Campus is also available via the pedestrian walkway.",
@@ -33,8 +33,8 @@ window.WHATS_OPEN_DATA = {
    "parkingPointName": "Customer parking via 1st Street SW",
    "routeStart": "Parking point",
    "routeMode": "Walking",
-   "lat": 44.021695,
-   "lng": -92.479249,
+   "lat": 44.021783,
+   "lng": -92.479622,
    "cats": [
     "Retail & services"
    ],
@@ -81,7 +81,7 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Hotel",
    "addressSource": "1117 2nd Street SW, Rochester, MN 55902",
    "address": "1117 2nd Street SW, Rochester, MN 55902",
-   "geocodeStatus": "Geocoded via Mapbox (rooftop (offset from shared address — sheet flags address review))",
+   "geocodeStatus": "Geocoded from Olmsted County address points",
    "status": "Open during construction",
    "description": "Aspen Suites is a hotel across the street from the Saint Marys Campus of the Mayo Clinic and a short ride to the Mayo Clinic/Gonda buildings on Aspen Suites' complimentary shuttle.",
    "accessNotes": "Customers can access Aspen Suites via the pedestrian walkway. Access to and from Mayo's St. Marys Campus is also available via the pedestrian walkway.",
@@ -99,8 +99,8 @@ window.WHATS_OPEN_DATA = {
    "accessPointName": "Pedestrian walkway",
    "routeStart": "Access point",
    "routeMode": "Walking",
-   "lat": 44.021695,
-   "lng": -92.479249,
+   "lat": 44.021783,
+   "lng": -92.479622,
    "cats": [
     "Lodging"
    ],
@@ -147,7 +147,7 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Restaurant",
    "addressSource": "1203 2nd Street SW, Rochester, MN 55902",
    "address": "1203 2nd Street SW, Rochester, MN 55902",
-   "geocodeStatus": "Geocoded via Mapbox (rooftop)",
+   "geocodeStatus": "Geocoded from Olmsted County address points",
    "status": "Open during construction",
    "description": "Located directly across the street from St. Marys Hospital, the Canadian Honker Restaurant is known for providing a friendly and comfortable home away from home atmosphere with exceptional customer service and outstanding homemade meals.",
    "accessNotes": "Patrons and food delivery persons can access Canadian Honker via the pedestrian walkway. Access to and from Mayo's St. Marys Campus is also available via the pedestrian walkway.",
@@ -167,8 +167,8 @@ window.WHATS_OPEN_DATA = {
    "parkingPointName": "Canadian Honker parking lot",
    "routeStart": "Parking point",
    "routeMode": "Walking",
-   "lat": 44.021687,
-   "lng": -92.48139,
+   "lat": 44.021783,
+   "lng": -92.481542,
    "cats": [
     "Food & drink"
    ],
@@ -227,7 +227,7 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Hotel and restaurant",
    "addressSource": "101 11th Ave. SW, Rochester, MN 55902",
    "address": "101 11th Ave. SW, Rochester, MN 55902",
-   "geocodeStatus": "Geocoded via Mapbox (rooftop)",
+   "geocodeStatus": "Geocoded from Olmsted County address points",
    "status": "Open during construction",
    "description": "IHG's recently-inaugurated EVEN Hotel is conveniently located across the street from the Mayo Clinic Hospital, St. Marys Campus and close to the Methodist Hospital Campus. EVEN Hotel also offers customizable, healthy entrees at their restaurant EVEN Kitchen & Bar.",
    "accessNotes": "Customers can access EVEN Hotel and EVEN Kitchen via the pedestrian walkway on 2nd Street SW or from 11th Ave SW and 1st Street SW as normal. Access to and from Mayo's St. Marys Campus is also available via the pedestrian walkway.",
@@ -246,8 +246,8 @@ window.WHATS_OPEN_DATA = {
    "parkingPointName": "EVEN Hotel Parking",
    "routeStart": "Parking point",
    "routeMode": "Walking",
-   "lat": 44.022551,
-   "lng": -92.478898,
+   "lat": 44.02218,
+   "lng": -92.479066,
    "cats": [
     "Food & drink",
     "Lodging"
@@ -263,7 +263,7 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Restaurant",
    "addressSource": "1137 2nd Street SW, Rochester, MN 55902",
    "address": "1137 2nd Street SW, Rochester, MN 55902",
-   "geocodeStatus": "Geocoded via Mapbox (interpolated)",
+   "geocodeStatus": "Geocoded from Olmsted County address points",
    "status": "Open during construction",
    "description": "Francisco's is a family owned and operated restaurant that brings the best of the Caribbean to Rochester. The homemade island flavor is Francisco's specialty.",
    "accessNotes": "Patrons and food delivery persons can access Francisco's via the pedestrian walkway. Access to and from Mayo's St. Marys Campus is also available via the pedestrian walkway.",
@@ -282,8 +282,8 @@ window.WHATS_OPEN_DATA = {
    "parkingPointName": "Parking lot near Uni Uni",
    "routeStart": "Parking point",
    "routeMode": "Walking",
-   "lat": 44.021694,
-   "lng": -92.479723,
+   "lat": 44.021756,
+   "lng": -92.480488,
    "cats": [
     "Food & drink"
    ],
@@ -330,7 +330,7 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Hotel",
    "addressSource": "1125 2nd Street SW, Rochester, MN, 55902, US",
    "address": "1125 2nd Street SW, Rochester, MN, 55902, US",
-   "geocodeStatus": "Geocoded via Mapbox (parcel)",
+   "geocodeStatus": "Geocoded from Olmsted County address points",
    "status": "Open during construction",
    "description": "SpringHill Suites Rochester Mayo Clinic Area / Saint Marys provides rooms in Rochester near Plummer Building and Mayo Civic Center.",
    "accessNotes": "Customers can access SpringHill Suites via the pedestrian walkway. Access to and from Mayo's St. Marys Campus is also available via the pedestrian walkway.",
@@ -349,8 +349,8 @@ window.WHATS_OPEN_DATA = {
    "parkingPointName": "SpringHill Suites Hotel Parking via 1st Street SW",
    "routeStart": "Parking point",
    "routeMode": "Walking",
-   "lat": 44.021695,
-   "lng": -92.479438,
+   "lat": 44.021823,
+   "lng": -92.48009,
    "cats": [
     "Lodging"
    ],
@@ -365,7 +365,7 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Hotel",
    "addressSource": "101 11th Ave SW, Rochester, MN 55902",
    "address": "101 11th Ave SW, Rochester, MN 55902",
-   "geocodeStatus": "Geocoded via Mapbox (rooftop (offset from shared address))",
+   "geocodeStatus": "Geocoded from Olmsted County address points",
    "status": "Open during construction",
    "description": "Staybridge Suites Rochester-Mayo Clinic Area, Rochester's newest IHG hotel, is across the street from St. Marys hospital or a short stroll from restaurants, bars, coffee shops, or a fresh market.",
    "accessNotes": "Customers can access Staybridge Suites Rochester via the pedestrian walkway on 2nd Street SW or from 11th Ave SW and 1st Street SW as normal. Access to and from Mayo's St. Marys Campus is also available via the pedestrian walkway.",
@@ -386,8 +386,8 @@ window.WHATS_OPEN_DATA = {
    "parkingPointName": "Staybridge Suites Parking",
    "routeStart": "Parking point",
    "routeMode": "Walking",
-   "lat": 44.022551,
-   "lng": -92.478898,
+   "lat": 44.02218,
+   "lng": -92.479066,
    "cats": [
     "Lodging"
    ],
@@ -402,7 +402,7 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Outdoor retail",
    "addressSource": "1923 2nd St SW, Rochester, MN 55902",
    "address": "1923 2nd St SW, Rochester, MN 55902",
-   "geocodeStatus": "Geocoded via Mapbox (rooftop)",
+   "geocodeStatus": "Geocoded from Olmsted County address points",
    "status": "Open during construction",
    "description": "Tyrol Ski & Sports is a family-owned specialty outdoor store, selling quality apparel and equipment in on 2nd Street SW in Rochester.",
    "accessNotes": "Patrons can access Tyrol's via the pedestrian walkway.",
@@ -421,8 +421,8 @@ window.WHATS_OPEN_DATA = {
    "parkingPointName": "Tyrol dedicated parking",
    "routeStart": "Parking point",
    "routeMode": "Walking",
-   "lat": 44.021657,
-   "lng": -92.492567,
+   "lat": 44.021879,
+   "lng": -92.492987,
    "cats": [
     "Retail & services"
    ],
@@ -437,7 +437,7 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Bubble tea",
    "addressSource": "1227 2nd St SW, Rochester, MN 55902",
    "address": "1227 2nd St SW, Rochester, MN 55902",
-   "geocodeStatus": "Geocoded via Mapbox (rooftop)",
+   "geocodeStatus": "Geocoded from Olmsted County address points",
    "status": "Open during construction",
    "description": "Uni Uni is passionate about bringing the authentic taste and beauty of bubble tea to Rochester, offering a unique, refreshing and healthy beverage experience.",
    "accessNotes": "Patrons and food delivery persons can access Uni Uni via the pedestrian walkway. Access to and from Mayo's St. Marys Campus is also available via the pedestrian walkway.",
@@ -456,8 +456,8 @@ window.WHATS_OPEN_DATA = {
    "parkingPointName": "Parking lot near Uni Uni",
    "routeStart": "Parking point",
    "routeMode": "Walking",
-   "lat": 44.021687,
-   "lng": -92.481878,
+   "lat": 44.021796,
+   "lng": -92.482635,
    "cats": [
     "Food & drink"
    ],
@@ -518,8 +518,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Architecture and engineering",
-   "lat": 44.020389,
-   "lng": -92.462721,
+   "lat": 44.020327,
+   "lng": -92.462588,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -556,7 +556,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "ISG is a dynamic, multidisciplinart architecture and engineering firm serving clients nationwide."
+   "description": "ISG is a dynamic, multidisciplinart architecture and engineering firm serving clients nationwide.",
+   "address": "30 3rd Street SE, Suite 600, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "luckys-bar-and-grill",
@@ -567,8 +569,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Bar and grill",
-   "lat": 44.020359,
-   "lng": -92.464421,
+   "lat": 44.020191,
+   "lng": -92.464289,
    "description": "Lucky's Bar and Grill is a lively American sports bar serving elevated pub food and unique cocktails.",
    "hoursVerification": "Needs verification",
    "hoursText": "Open daily 11 a.m. to 1 a.m.",
@@ -646,7 +648,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "304 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "the-taco-shop",
@@ -657,8 +661,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Fast Food",
    "subcategory": "Mexican",
-   "lat": 44.022402,
-   "lng": -92.464109,
+   "lat": 44.022435,
+   "lng": -92.464056,
    "description": "One block from the Mayo Clinic, The Taco Shop is renowend for its fresh, flavorful Mexican dishes.",
    "hoursVerification": "Needs verification",
    "hoursText": "Sunday - Thursday 11 a.m. to 9 p.m.; Friday - Saturday 11 a.m. to 10 p.m.",
@@ -708,7 +712,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "20 1st St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "our-paladar",
@@ -719,8 +725,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Latin restaurant",
-   "lat": 44.019233,
-   "lng": -92.461404,
+   "lat": 44.019139,
+   "lng": -92.461356,
    "description": "Our Paladar is an upscale yet unpretentious restaurant in the historic train depot that serves a frequently rotating, locally sourced menu of handmade pastas and seasonal dishes.",
    "hoursVerification": "Needs verification",
    "hoursText": "Tuesday - Thursday 4 p.m. to 10 p.m.; Friday - Saturday 4 p.m. to 11 p.m.; Sunday 2 p.m. to 9 p.m.; Closed Monday",
@@ -764,7 +770,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "20 4th St SE, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "sal-terrae-boutique",
@@ -775,8 +783,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Boutique",
-   "lat": 44.020136,
-   "lng": -92.462955,
+   "lat": 44.019643,
+   "lng": -92.46281,
    "description": "Sal Terrae is a family owned clothing botique with a welcoming and inclusive environment.",
    "hoursVerification": "Needs verification",
    "hoursText": "Tuesday - Friday 11 a.m. to 6 p.m.; Saturday 11 a.m. to 4 p.m.",
@@ -814,7 +822,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "324 S Broadway Ave, 200, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "aloha-poke-co",
@@ -825,8 +835,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Poke",
-   "lat": 44.022605,
-   "lng": -92.464575,
+   "lat": 44.022253,
+   "lng": -92.464675,
    "description": "Aloha Poke Co., located one block from the Mayo Clinic, serves fast, delicious, healthy bowls packed with sushi-grade fish and Hawaiian inspired raw ingredients to fuel your day.",
    "hoursText": "Monday - Friday 10 a.m. to 3 p.m.; Closed Saturday - Sunday",
    "schedule": {
@@ -863,7 +873,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "101 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "cedar-taste-mediterranean-food",
@@ -874,8 +886,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Mediterranean restaurant",
-   "lat": 44.022391,
-   "lng": -92.464418,
+   "lat": 44.022328,
+   "lng": -92.464126,
    "hoursVerification": "Needs verification",
    "hoursText": "Monday - Friday 9:30 a.m. to 4 p.m.; Closed Saturday - Sunday",
    "schedule": {
@@ -913,7 +925,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Cedar Taste Mediterranean is an authentic Lebanese restaurant serving shawarma and fresh Mediterranean dishes."
+   "description": "Cedar Taste Mediterranean is an authentic Lebanese restaurant serving shawarma and fresh Mediterranean dishes.",
+   "address": "100 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "bioglo-aesthetics-at-the-kahler-grand-hotel",
@@ -924,8 +938,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Medspa",
-   "lat": 44.023251,
-   "lng": -92.46574,
+   "lat": 44.022954,
+   "lng": -92.4657,
    "description": "Directly across from the Mayo Clinic's Gonda Building, Bio Glow Aesthetics offers permier skin rejuvenation and advanced regenerative hair restoration.",
    "hoursText": "Open daily 9 a.m. to 8 p.m.",
    "schedule": {
@@ -974,7 +988,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "20 2nd Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "masjid-abubakar-siddiq-rochester-mosque",
@@ -985,9 +1001,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Community and nonprofit",
    "subcategory": "Place of worship",
-   "lat": 44.023661,
-   "lng": -92.463106,
-   "description": "Masjid Abubakar Siddiq is a Sunni mosque located two blocks from the Mayo Clinic."
+   "lat": 44.024124,
+   "lng": -92.463479,
+   "description": "Masjid Abubakar Siddiq is a Sunni mosque located two blocks from the Mayo Clinic.",
+   "address": "17 N Broadway Ave, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "diseno-floral-moreno",
@@ -998,8 +1016,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Florist",
-   "lat": 44.02649,
-   "lng": -92.46441,
+   "lat": 44.026658,
+   "lng": -92.464211,
    "description": "Diseno Floral Moreno is a family-owned floral botique with premium hand-crafted floral arrangements and timely delivery services to nearby destinations like the Mayo Clinic.",
    "hoursText": "Monday 10 a.m. to 10 p.m.; Tuesday - Friday 10 a.m. to 9 p.m.; Saturday - Sunday 12: p.m. to 9 p.m.",
    "schedule": {
@@ -1048,7 +1066,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "308 1st Ave NW, Rochester, MN 55901",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "smile-orthodontics-rochester",
@@ -1059,8 +1079,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Orthodontics",
-   "lat": 44.020389,
-   "lng": -92.462721,
+   "lat": 44.020327,
+   "lng": -92.462588,
    "description": "Smile Orthodontics is a modern, tech-driven orthodontic practice specializing in advanced teeth straightening solutions with and emphasis on precision, convenience and fewer office visits.",
    "hoursText": "Monday - Thursday 9 a.m. to 4 p.m.; Closed Friday - Sunday",
    "schedule": {
@@ -1091,7 +1111,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "30 3rd ST, 202, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "bebap-korean-eats",
@@ -1102,8 +1124,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Korean restaurant",
-   "lat": 44.021352,
-   "lng": -92.464425,
+   "lat": 44.020993,
+   "lng": -92.464282,
    "description": "Serving up modern Korean inspired comfort food, Bebap Korean Eats designed a menu packed with color, flavor and variety. Bebap's atmosphere is modern, energetic and cozy.",
    "hoursText": "Monday - Thursday 11 a.m. to 9 p.m.; Friday - Saturday 11 a.m. to 10 p.m.; Sunday 11 a.m. to 8 p.m.",
    "schedule": {
@@ -1152,7 +1174,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "216 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "the-stubborn-donkey",
@@ -1163,8 +1187,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Bar and restaurant",
-   "lat": 44.021352,
-   "lng": -92.464425,
+   "lat": 44.020993,
+   "lng": -92.464282,
    "description": "The Stubborn Donkey is a Latin inspired cocktail lounge and restaurant specializing in hand crafted agave cocktails, house made mixers, tapas and bites.",
    "hoursText": "Friday - Saturday 5 p.m. to 12 a.m.; Closed Monday - Thursday, Sunday",
    "schedule": {
@@ -1183,7 +1207,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "216 1st Ave SW, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "carrolls-corner-store",
@@ -1194,8 +1220,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Convenience store",
-   "lat": 44.023251,
-   "lng": -92.46574,
+   "lat": 44.022954,
+   "lng": -92.4657,
    "description": "Caroll's Corner Store is an extension of Rochester's famous pop shop Carroll's Corn. You can find a large selection of snacks drinks and gourmet popcorn.",
    "hoursText": "Monday - Thursday 7 a.m. to 5:30 p.m.; Friday 7 a.m. to 4:30 p.m.; Closed Saturday - Sunday",
    "schedule": {
@@ -1232,7 +1258,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "20 2nd Ave SW, 52, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "latitude-44",
@@ -1243,8 +1271,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Restaurant",
-   "lat": 44.024626,
-   "lng": -92.46309,
+   "lat": 44.025143,
+   "lng": -92.463283,
    "description": "Latitude 44 is a modern American restaurant, featuring thoughtful food and beverages with an energetic, casual ambiance.",
    "hoursText": "Monday - Thursday 4: p.m. to 9 p.m.; Friday 4: p.m. to 10 p.m.; Saturday 10 a.m. to 10 p.m.; Sunday 10 a.m. to 3 p.m.",
    "schedule": {
@@ -1293,7 +1321,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "121 Broadway N, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "simply-bao-wellness-studio",
@@ -1304,8 +1334,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Wellness studio",
-   "lat": 44.022605,
-   "lng": -92.464575,
+   "lat": 44.022253,
+   "lng": -92.464675,
    "description": "Simply Bao wellness studio offers persinalized, one-on-one wellnes and relaxation services in a warm, peaceful and comfortable setting.",
    "hoursText": "Monday 9:30 a.m. to 6:30 p.m.; Tuesday 9:30 a.m. to 6:30 a.m.; Wednesday - Friday 9:30 a.m. to 6:30 p.m.; Closed Saturday - Sunday",
    "schedule": {
@@ -1342,7 +1372,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "101 1st Ave SW, 26, Rochester MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "lord-essex-tavern-and-grill",
@@ -1353,8 +1385,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Bar and grill",
-   "lat": 44.023251,
-   "lng": -92.46574,
+   "lat": 44.022954,
+   "lng": -92.4657,
    "description": "Lord Essex Tavern and Grill blends traditional American cuisine with fresh innovation and new tavern concept. Guests can enjoy a hearty menu and big selection of craft beers.",
    "hoursText": "Monday - Friday 6:30 a.m. to 9 p.m.; Saturday - Sunday 7 a.m. to 9 p.m.",
    "schedule": {
@@ -1403,7 +1435,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "20 2nd Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "j-powers-events",
@@ -1414,8 +1448,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Event planning",
-   "lat": 44.023413,
-   "lng": -92.462859,
+   "lat": 44.023367,
+   "lng": -92.462697,
    "description": "J Powers Events is an upscale venue offering elegeant event spaces, catering, planned support, modern AV capabilities, and city views for weddings, corporate meetings, and social gatherings.",
    "hoursText": "Open daily 8 a.m. to 8 p.m.",
    "schedule": {
@@ -1464,7 +1498,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "10 East Center St, Suite 2B, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "cambria-gallery-rochester-hilton",
@@ -1475,8 +1511,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Home design showroom",
-   "lat": 44.023413,
-   "lng": -92.462859,
+   "lat": 44.023367,
+   "lng": -92.462697,
    "description": "At the Cambria Gallery in Rochester, you can see Cambria quartz surfaces in a wide range of designs, consult with experts and utilize a variety of visualization tools.",
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
@@ -1513,7 +1549,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "10 East Center St, Suite 240, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "downtown-smoke-shop-and-breakroom",
@@ -1524,8 +1562,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Smoke shop",
-   "lat": 44.020137,
-   "lng": -92.463115,
+   "lat": 44.019558,
+   "lng": -92.463263,
    "description": "Downtown Smoke Shop and Break Room is a convenient shop offering tobacco, e-cigarettes and smoking accessories.",
    "hoursText": "Monday - Saturday 10 a.m. to 1 a.m.; Sunday noon to 12 a.m.",
    "schedule": {
@@ -1598,7 +1636,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "325 Broadway Ave S, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "botanical-rhapsody-organics-of-rochester",
@@ -1609,8 +1649,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Natural products",
-   "lat": 44.023251,
-   "lng": -92.46574,
+   "lat": 44.022954,
+   "lng": -92.4657,
    "description": "Botanical Rhapsody Organics is a wellness shop specializing in CBD, hemp-derived products, herbal suppliments, skincare and other natural health products.",
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
@@ -1647,7 +1687,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "20 2nd Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "midwest-vintage-toys",
@@ -1658,8 +1700,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Toys and collectibles",
-   "lat": 44.025407,
-   "lng": -92.462412,
+   "lat": 44.025468,
+   "lng": -92.46216,
    "description": "Midwest Vintage Toys is full of nostalgic finds with a large selection of vintage toys, action figures, trading cards, comics and die-cast vehicles.",
    "hoursText": "Monday - Saturday 10 a.m. to 7 p.m.; Sunday 10 a.m. to 5 p.m.",
    "schedule": {
@@ -1708,7 +1750,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "11 2nd St NE, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "artistic-framers",
@@ -1719,9 +1763,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Framing",
-   "lat": 44.022605,
-   "lng": -92.464575,
-   "description": "Artistic Framers in Rochester, MN offers custom framing services that beautifully preserve and display artwork, photographs, memorabilia, and other treasured pieces."
+   "lat": 44.022253,
+   "lng": -92.464675,
+   "description": "Artistic Framers in Rochester, MN offers custom framing services that beautifully preserve and display artwork, photographs, memorabilia, and other treasured pieces.",
+   "address": "101 1st Ave SW, Suite 8, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "shhhh-we-dont-talk-about-it-cocktail-lounge",
@@ -1732,8 +1778,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Cocktail lounge",
-   "lat": 44.020394,
-   "lng": -92.463883,
+   "lat": 44.020323,
+   "lng": -92.463378,
    "description": "Shhh…We Don't Talk About It is a hidden, plant filled underground spot know for its speakeasy vibes and creative cocktails.",
    "hoursText": "Monday - Saturday 4 p.m. to 12 a.m.; Closed Sunday",
    "schedule": {
@@ -1776,7 +1822,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "4 3rd St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "alliance-property-management",
@@ -1787,8 +1835,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Property management",
-   "lat": 44.020287,
-   "lng": -92.463112,
+   "lat": 44.020002,
+   "lng": -92.463286,
    "hoursText": "Monday - Friday 9 a.m. to 4 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -1825,7 +1873,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Alliance Property Management is a full-service property management company and licensed real estate brokerage specializing in the management of residential and commercial real estate."
+   "description": "Alliance Property Management is a full-service property management company and licensed real estate brokerage specializing in the management of residential and commercial real estate.",
+   "address": "311 Broadway Ave S, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "relax-and-massage-wellness-center",
@@ -1836,8 +1886,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Massage",
-   "lat": 44.021607,
-   "lng": -92.463371,
+   "lat": 44.021916,
+   "lng": -92.463944,
    "description": "Relax and Massage Wellness Center offers soothing massage therapy designed to ease pain, reduce stress, and leave you feeling relaxed and refreshed.",
    "hoursText": "Monday - Wednesday 8 a.m. to 9 p.m.; Thursday 8:30 a.m. to 9 p.m.; Friday - Sunday 8 a.m. to 9 p.m.",
    "schedule": {
@@ -1886,7 +1936,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "21 2nd St SW, Suite 15, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "pereiras-wine-and-whiskey-lounge",
@@ -1897,8 +1949,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Wine and whiskey bar",
-   "lat": 44.024626,
-   "lng": -92.46309,
+   "lat": 44.025143,
+   "lng": -92.463283,
    "hoursText": "Friday - Saturday 5 p.m. to 12 a.m.; Closed Monday - Thursday, Sunday",
    "schedule": {
     "type": "weekly",
@@ -1917,7 +1969,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Pereira's Wine & Whiskey Lounge brings together history, elegance, and comfort serving premium wine, whiskey and handcrafted cocktails."
+   "description": "Pereira's Wine & Whiskey Lounge brings together history, elegance, and comfort serving premium wine, whiskey and handcrafted cocktails.",
+   "address": "121 Broadway Ave N, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "ryan-companies-wells-fargo-building",
@@ -1928,9 +1982,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Real estate development",
-   "lat": 44.022516,
-   "lng": -92.464121,
-   "description": "Located in a 1915 Romanesque Revival style building, Pereora's Wine & Whiskey Lounge features thoughtfully curated craft cocktails, wine and whiskey."
+   "lat": 44.022676,
+   "lng": -92.464268,
+   "description": "Located in a 1915 Romanesque Revival style building, Pereora's Wine & Whiskey Lounge features thoughtfully curated craft cocktails, wine and whiskey.",
+   "address": "21 1st St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "nicolet-law",
@@ -1941,13 +1997,15 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Legal",
    "subcategory": "Law firm",
-   "lat": 44.021331,
-   "lng": -92.464424,
+   "lat": 44.020955,
+   "lng": -92.464286,
    "description": "Nicolet Law Accident and Injury Lawyers is a personal injury law firm helping people navigate car accidents, serious injuries, wrongful death and other injury claims.",
    "hoursText": "Open daily open 24 hours",
    "schedule": {
     "type": "always"
-   }
+   },
+   "address": "218 1st Ave SW, Suite 1, Rochester, MN 55901",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "lumi-restaurant",
@@ -1958,8 +2016,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Restaurant",
-   "lat": 44.020955,
-   "lng": -92.46458,
+   "lat": 44.020685,
+   "lng": -92.46474,
    "description": "Lumi restaurant us a vibrant dining spot where Turkish favorites meets flavors from around the world, with housemade dishes, vegetarian and Halal options, and a warm, elegant atmosphere.",
    "hoursText": "Monday - Friday 11 a.m. to 9 p.m.; Saturday - Sunday 10 a.m. to 9 p.m.",
    "schedule": {
@@ -2008,7 +2066,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "255 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "massaie-services-inc",
@@ -2019,8 +2079,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Business services",
-   "lat": 44.023341,
-   "lng": -92.46457,
+   "lat": 44.023049,
+   "lng": -92.464721,
    "description": "Massaie Services Inc. provides private transporatation, accommodation coordination and personal support for patients and families visiting Rochester for medical care.",
    "hoursText": "Monday - Saturday 7 a.m. to 7 p.m.; Closed Sunday",
    "schedule": {
@@ -2063,7 +2123,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "11 1st Ave SW, Suite 201, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "lcs-venue",
@@ -2074,8 +2136,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Arts, culture and entertainment",
    "subcategory": "Event venue",
-   "lat": 44.020221,
-   "lng": -92.462954,
+   "lat": 44.019915,
+   "lng": -92.462832,
    "description": "LCs Venue is a charming downtown event space for up to 150 guests, offering flexible setups, catering, and personalized planning for weddings, corporate events, and private celebrations.",
    "hoursText": "Open daily 7 a.m. to 12 a.m.",
    "schedule": {
@@ -2124,7 +2186,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "316 Broadway Ave S, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "copper-and-coal-photography",
@@ -2135,8 +2199,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Photography",
-   "lat": 44.020394,
-   "lng": -92.463883,
+   "lat": 44.020323,
+   "lng": -92.463378,
    "description": "Copper and Coal Photography captures heartfelt, natural moments through maternity, newborn, family, couples, motherhood, and wedding photography with a warm artistic style.",
    "hoursText": "Monday - Friday 11 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
@@ -2173,7 +2237,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "4 3rd St, SW, Suite 204, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "coronas-tacos",
@@ -2184,8 +2250,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Mexican restaurant",
-   "lat": 44.022391,
-   "lng": -92.464418,
+   "lat": 44.022328,
+   "lng": -92.464126,
    "description": "Corona's Tacos is made-from-scratch Mexican food with a wide variety of options, from flavorful tacos and burritos to cheesy quesadillas and signature vampiritos.",
    "hoursText": "Monday - Thursday 11 a.m. to 9 p.m.; Friday - Saturday 11 a.m. to 10 p.m.; Sunday 11 a.m. to 9 p.m.",
    "schedule": {
@@ -2234,7 +2300,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "100 1st Ave SW, Suite 206, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "aura-wellness-center",
@@ -2245,8 +2313,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Wellness center",
-   "lat": 44.019083,
-   "lng": -92.46323,
+   "lat": 44.018621,
+   "lng": -92.463392,
    "description": "Aura Wellness center offers personalized massages and spa treatments desgined to leave you feeling fresh and restored.",
    "hoursText": "Monday - Friday 8:30 a.m. to 8:30 p.m.; Saturday 9 a.m. to 8:30 p.m.; Sunday 10 a.m. to 6 p.m.",
    "schedule": {
@@ -2295,7 +2363,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "415 Broadway Ave S, 102, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "diatom-books",
@@ -2306,8 +2376,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Bookstore",
-   "lat": 44.02018,
-   "lng": -92.463114,
+   "lat": 44.019701,
+   "lng": -92.463286,
    "description": "Diatom Books is a charming woman-owned bookstore specializing in used, uncommon, and rare books, with a unique collection of books celebrating science, technology, society, art, history, and other curious finds.",
    "hoursText": "Saturday 12: p.m. to 5 p.m.; Closed Monday - Friday, Sunday",
    "schedule": {
@@ -2320,7 +2390,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "321 Broadway S, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "la-crosse-sign-group-of-rochester",
@@ -2331,8 +2403,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Signage",
-   "lat": 44.021293,
-   "lng": -92.464583,
+   "lat": 44.020932,
+   "lng": -92.464712,
    "description": "La Crosse Sign Group of Rochester is a full-service sign company bringing businesses to life with custom signeage, desgin, fabrication, installation and branding services.",
    "hoursText": "Monday - Thursday 7 a.m. to 5 p.m.; Friday 7 a.m. to noon; Closed Saturday - Sunday",
    "schedule": {
@@ -2369,7 +2441,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "221 1st Ave SW, Suite 610, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "interiors-by-j-curry",
@@ -2380,9 +2454,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Interior design",
-   "lat": 44.025817,
-   "lng": -92.462952,
-   "description": "Interiors by J. Curry is a stylish interior design destination focused on creating beautiful, welcoming spaces with thoughtful details and a personalized touch."
+   "lat": 44.025913,
+   "lng": -92.462529,
+   "description": "Interiors by J. Curry is a stylish interior design destination focused on creating beautiful, welcoming spaces with thoughtful details and a personalized touch.",
+   "address": "212 Broadway Ave N, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "fuzzys-italian-ice-and-ice-cream",
@@ -2393,8 +2469,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Ice cream and dessert",
-   "lat": 44.020207,
-   "lng": -92.464422,
+   "lat": 44.019945,
+   "lng": -92.464287,
    "hoursText": "Monday - Saturday 11 a.m. to 10 p.m.; Sunday 12: p.m. to 10 p.m.",
    "schedule": {
     "type": "weekly",
@@ -2443,7 +2519,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Fuzzy's Italian Ice and Ice Cream is a family-run desert shop selling Italian ices, frozen custard, and bubble waffles."
+   "description": "Fuzzy's Italian Ice and Ice Cream is a family-run desert shop selling Italian ices, frozen custard, and bubble waffles.",
+   "address": "318 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "area-10-labs",
@@ -2454,8 +2532,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Community and nonprofit",
    "subcategory": "Makerspace",
-   "lat": 44.019231,
-   "lng": -92.463289,
+   "lat": 44.019172,
+   "lng": -92.463688,
    "description": "Area 10 Labs is a research and development company that uses computing, neuroscience, engineering and physics to turn client's product ideas into reality.",
    "hoursText": "Open daily 7 a.m. to 10 p.m.",
    "schedule": {
@@ -2504,7 +2582,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "14 4th St SW, Suite 202, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "happy-clicker-photography",
@@ -2515,13 +2595,15 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Photography",
-   "lat": 44.020394,
-   "lng": -92.463883,
+   "lat": 44.020323,
+   "lng": -92.463378,
    "description": "Happy Clicker Photography combines a creative eye with technical expertise to turn your vision into imagery.",
    "hoursText": "Open daily open 24 hours",
    "schedule": {
     "type": "always"
-   }
+   },
+   "address": "4 3rd St SW, Suite 206, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "the-guerin-art-and-music-studio",
@@ -2532,9 +2614,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Education and childcare",
    "subcategory": "Art and music lessons",
-   "lat": 44.020395,
-   "lng": -92.463951,
-   "description": "The Guerin Art and Music Studio features mixed-media paintings, artwork, guitars, amplifiers and pedals. The venue also hosts live performances, art classes and music lessons."
+   "lat": 44.02031,
+   "lng": -92.463871,
+   "description": "The Guerin Art and Music Studio features mixed-media paintings, artwork, guitars, amplifiers and pedals. The venue also hosts live performances, art classes and music lessons.",
+   "address": "16 3rd St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "navinetics",
@@ -2545,9 +2629,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Technology",
-   "lat": 44.021432,
-   "lng": -92.46294,
-   "description": "NaviNetics is an innovative medical technology company developing safe, precise, user-friendly devices designed to improve neurosurgical procedures and patient care."
+   "lat": 44.021414,
+   "lng": -92.462543,
+   "description": "NaviNetics is an innovative medical technology company developing safe, precise, user-friendly devices designed to improve neurosurgical procedures and patient care.",
+   "address": "206 Broadway Ave S, Suite 700, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "taaj-service-pleasant-cafe",
@@ -2558,8 +2644,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Cafe",
-   "lat": 44.024592,
-   "lng": -92.46309,
+   "lat": 44.025013,
+   "lng": -92.463263,
    "hoursText": "Open daily 10 a.m. to 10 p.m.",
    "schedule": {
     "type": "weekly",
@@ -2608,7 +2694,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Pleasant café is locally-owned and  serves sambusas, Somali tea, lattes and more."
+   "description": "Pleasant café is locally-owned and  serves sambusas, Somali tea, lattes and more.",
+   "address": "117 Broadway Ave N, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "curve",
@@ -2619,9 +2707,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Boutique",
-   "lat": 44.021293,
-   "lng": -92.464583,
-   "description": "Curve is a creative agency that creates design solutions that leaves a lasting impression on the target audience."
+   "lat": 44.020932,
+   "lng": -92.464712,
+   "description": "Curve is a creative agency that creates design solutions that leaves a lasting impression on the target audience.",
+   "address": "221 1st Ave SW, Suite 202, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "taste-of-the-philippines",
@@ -2632,8 +2722,10 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Filipino restaurant",
-   "lat": 44.022391,
-   "lng": -92.464418
+   "lat": 44.022328,
+   "lng": -92.464126,
+   "address": "100 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "north-stone-kitchen",
@@ -2644,8 +2736,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Restaurant",
-   "lat": 44.022605,
-   "lng": -92.464575,
+   "lat": 44.022253,
+   "lng": -92.464675,
    "description": "North Stone Kitchen is a warm, modern American restaurant serving thoughtfully crafted dishes with fresh, locally inspired ingredients in a relaxed and welcoming atmosphere.",
    "hoursText": "Monday - Friday 6:30 a.m. to 10 p.m.; Saturday 7 a.m. to 2 p.m.; Sunday 7 a.m. to 10 p.m.",
    "schedule": {
@@ -2694,7 +2786,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "101 1st Ave SW, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "hair-and-co-at-the-avalon",
@@ -2705,8 +2799,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Hair salon",
-   "lat": 44.026329,
-   "lng": -92.463118,
+   "lat": 44.026421,
+   "lng": -92.463234,
    "description": "Hair & Co at the Avalon is a stylish, upscale salon where independent artists provide precision haircuts, custom coloring and other personalized beauty care.",
    "hoursText": "Monday 9 a.m. to 5 p.m.; Tuesday 10 a.m. to 5 p.m.; Wednesday - Thursday 10 a.m. to 6 p.m.; Friday 10 a.m. to 5 p.m.; Saturday 9 a.m. to 2 p.m.; Closed Sunday",
    "schedule": {
@@ -2749,7 +2843,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "301 North Broadway, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "palmetto-room",
@@ -2760,8 +2856,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Bar and restaurant",
-   "lat": 44.019233,
-   "lng": -92.461404,
+   "lat": 44.019139,
+   "lng": -92.461356,
    "hoursText": "Monday - Thursday 4: p.m. to 9 p.m.; Friday - Saturday 4: p.m. to 10 p.m.; Sunday 4: p.m. to 9 p.m.",
    "schedule": {
     "type": "weekly",
@@ -2810,7 +2906,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Palmetto Room is a hidden, rum-focused speakeasy located in the lower level of the restaurant Our Paladar."
+   "description": "Palmetto Room is a hidden, rum-focused speakeasy located in the lower level of the restaurant Our Paladar.",
+   "address": "20 4th St SE, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "green-and-the-grain",
@@ -2821,8 +2919,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Salads and bowls",
-   "lat": 44.022516,
-   "lng": -92.464121,
+   "lat": 44.022676,
+   "lng": -92.464268,
    "hoursText": "Monday - Friday 10 a.m. to 2 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -2859,7 +2957,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Green + The Grain is a fresh, fast-casual spot specializing in flavorful signature salads, wraps, and customizable grain bowls made for a healthy meal on the go."
+   "description": "Green + The Grain is a fresh, fast-casual spot specializing in flavorful signature salads, wraps, and customizable grain bowls made for a healthy meal on the go.",
+   "address": "21 1st St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "minnwest-bank",
@@ -2908,7 +3008,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Minnwest Bank provides financial services such as checking, online banking, savings, loans, cash management and more."
+   "description": "Minnwest Bank provides financial services such as checking, online banking, savings, loans, cash management and more.",
+   "address": "324 1st Ave AW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded via US Census (street interpolation)"
   },
   {
    "id": "almadina-restaurant",
@@ -2919,8 +3021,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Middle Eastern restaurant",
-   "lat": 44.024457,
-   "lng": -92.46309,
+   "lat": 44.024562,
+   "lng": -92.463294,
    "description": "Almadina Restaurant is a welcoming Middle Eastern and Mediterranean eatery serving flavorful favorites like shawarma, gyros, falafel, kebabs, fresh salad, and vegetarian dishes.",
    "hoursText": "Open daily 11 a.m. to 9 p.m.",
    "schedule": {
@@ -2969,7 +3071,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "101 N Broadway Ave, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "ama-la-vita",
@@ -2981,8 +3085,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Boutique",
    "description": "Ama La Vita is a lifestyle boutique, offering Women’s fashion & accessories, home décor & meaningful gifts\nlittles’ apparel, and a full selection of dancewear and dance shoes.",
-   "lat": 44.022359,
-   "lng": -92.464418,
+   "lat": 44.022431,
+   "lng": -92.464295,
    "hoursText": "Monday - Thursday: 10am-7pm\nFriday: 10am-6pm\nSaturday: 11am-4pm\nSunday: 12pm-4pm",
    "schedule": {
     "type": "weekly",
@@ -3030,7 +3134,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "104 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "olde-brick-house",
@@ -3041,8 +3147,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Restaurant",
-   "lat": 44.023276,
-   "lng": -92.464571,
+   "lat": 44.0229,
+   "lng": -92.464713,
    "description": "Olde Brick House is an authentic Irish pub serving hearty Irish favorites, American dishes and a large selection of beer and whiskey in a warm, lively atmosphere.",
    "hoursText": "Monday - Wednesday 10:30 a.m. to 9 p.m.; Thursday - Saturday 10:30 a.m. to 10 p.m.; Sunday 10:30 a.m. to 9 p.m.",
    "schedule": {
@@ -3091,7 +3197,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "19 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "beauty-by-amy",
@@ -3102,8 +3210,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Beauty salon",
-   "lat": 44.019083,
-   "lng": -92.46323,
+   "lat": 44.018621,
+   "lng": -92.463392,
    "hoursText": "Monday 8 a.m. to 4:30 a.m.; Tuesday - Saturday 8 a.m. to 4:30 p.m.; Sunday 8 a.m. to 5 p.m.",
    "schedule": {
     "type": "weekly",
@@ -3156,7 +3264,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Beauty by Amy offers friendly, professional hair braiding and traditional African clothing."
+   "description": "Beauty by Amy offers friendly, professional hair braiding and traditional African clothing.",
+   "address": "415 Broadway Ave S, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "the-hub-on-3rd",
@@ -3167,8 +3277,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Shopping centers and coworking",
    "subcategory": "Coworking and event space",
-   "lat": 44.019922,
-   "lng": -92.458747,
+   "lat": 44.020244,
+   "lng": -92.458613,
    "description": "The Hub on 3rd offers 15 private offices, a bookable conference room and virtual office memberships. The Hub combines visibility and convenience with essentails like included parking, secure 24/7 access and high speed internet in a furnished, professional environment.",
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
@@ -3205,7 +3315,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "300 3rd Ave SE, 201, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "the-fit-loon",
@@ -3216,8 +3328,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Fitness",
-   "lat": 44.025807,
-   "lng": -92.462952,
+   "lat": 44.025847,
+   "lng": -92.462526,
    "description": "The Fit Loon is a cheerful, health-focused spot serving protein packed shakes and energizing teas that make for a quick, nutritious breakfast, lunch or sweet treat on the go.",
    "hoursText": "Monday - Friday 6 a.m. to 4 p.m.; Saturday 9 a.m. to 1 p.m.; Closed Sunday",
    "schedule": {
@@ -3260,7 +3372,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "210 N Broadway Ave, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "tildas-pizzeria",
@@ -3272,8 +3386,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Pizza",
    "description": "Tilda's Pizzeria makes fresh, quality pizzas from scratch and cooks them in their custom-built wood-fired oven.",
-   "lat": 44.026457,
-   "lng": -92.46441,
+   "lat": 44.026496,
+   "lng": -92.464058,
    "hoursText": "Sunday 4:00PM - 9:00PM\nMonday 4:00PM - 9:00PM\nTuesday 4:00PM - 9:00PM\nWednesday 4:00PM - 9:00PM\nThursday 4:00PM - 9:00PM\nFriday 4:00PM - 9:00PM\nSaturday 4:00PM - 9:00PM",
    "schedule": {
     "type": "weekly",
@@ -3321,7 +3435,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "300 1st Ave NW, Rochester, MN 55901",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "ruths-chris-steakhouse",
@@ -3332,8 +3448,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Steakhouse",
-   "lat": 44.023251,
-   "lng": -92.46574,
+   "lat": 44.022954,
+   "lng": -92.4657,
    "description": "Ruth's Chris Steakhouse is an upscale steakhouse known for sizzling, butter-topped steaks, classic sides, fine wines, and polished service in an elegant setting.",
    "hoursText": "Monday - Thursday 4: p.m. to 10 p.m.; Friday - Saturday 4: p.m. to 10:30 p.m.; Sunday 4: p.m. to 9 p.m.",
    "schedule": {
@@ -3382,7 +3498,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "20 2nd Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "keller-tattoo",
@@ -3393,9 +3511,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Tattoo",
-   "lat": 44.018887,
-   "lng": -92.462884,
-   "description": "Keller Tattoo is a welcoming shop specializing in fine line, floral, black and grey, and Christian/faith based tattoos."
+   "lat": 44.018453,
+   "lng": -92.462795,
+   "description": "Keller Tattoo is a welcoming shop specializing in fine line, floral, black and grey, and Christian/faith based tattoos.",
+   "address": "416  Broadway Ave S, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "99-giggles",
@@ -3406,8 +3526,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Children's store",
-   "lat": 44.023251,
-   "lng": -92.46574,
+   "lat": 44.022954,
+   "lng": -92.4657,
    "description": "99 Giggles is a fun filled gift shop offering unique and memorable gifts, accessories and apparel to brighten someone's day.",
    "hoursText": "Monday - Thursday 9 a.m. to 5 p.m.; Friday 9 a.m. to 4:30 p.m.; Closed Saturday - Sunday",
    "schedule": {
@@ -3444,7 +3564,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "20 2nd Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "alerus-bank",
@@ -3455,8 +3577,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Bank",
-   "lat": 44.022019,
-   "lng": -92.464582,
+   "lat": 44.021823,
+   "lng": -92.464716,
    "hoursText": "Monday - Friday 7:30 a.m. to 3:30 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -3493,7 +3615,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Alerus offers checking and savings accounts, digital banking, credit cards, mortgages, wealth management, and retirement solutions to help individuals manage their finances."
+   "description": "Alerus offers checking and savings accounts, digital banking, credit cards, mortgages, wealth management, and retirement solutions to help individuals manage their finances.",
+   "address": "155 1st Ave SW, Suite 200, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "armon-architecture",
@@ -3504,8 +3628,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Architecture",
-   "lat": 44.019337,
-   "lng": -92.463936,
+   "lat": 44.019563,
+   "lng": -92.463651,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -3542,7 +3666,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Armon Architecture provides commercial and residential design servies."
+   "description": "Armon Architecture provides commercial and residential design servies.",
+   "address": "11 4th St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "art-heads-emporium",
@@ -3553,8 +3679,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Art and gifts",
-   "lat": 44.020223,
-   "lng": -92.463113,
+   "lat": 44.019821,
+   "lng": -92.463286,
    "hoursText": "Friday 6: p.m. to 8 p.m.; Saturday 11 a.m. to 6 p.m.; Sunday 12: p.m. to 3 p.m.; Closed Monday - Thursday",
    "schedule": {
     "type": "weekly",
@@ -3579,7 +3705,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Art Heads Emporium is a creative lead space that offers a wide variety of hands on workshops and classes that celebrate and encourage creativity."
+   "description": "Art Heads Emporium is a creative lead space that offers a wide variety of hands on workshops and classes that celebrate and encourage creativity.",
+   "address": "317 S Broadway Ave, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "associated-bank",
@@ -3590,8 +3718,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Bank",
-   "lat": 44.021432,
-   "lng": -92.46294,
+   "lat": 44.021414,
+   "lng": -92.462543,
    "hoursText": "Monday - Friday 9 a.m. to 4 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -3628,7 +3756,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Associated Bank offers convenient personal and business banking services, including checking, savings, loans, and financial solutions to help customers manage their money with confidence."
+   "description": "Associated Bank offers convenient personal and business banking services, including checking, savings, loans, and financial solutions to help customers manage their money with confidence.",
+   "address": "206 S Broadway Ave, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "auntie-annes-pretzel",
@@ -3639,8 +3769,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Pretzels and snacks",
-   "lat": 44.022605,
-   "lng": -92.464575,
+   "lat": 44.022253,
+   "lng": -92.464675,
    "hoursText": "Monday - Friday 6 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -3677,7 +3807,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Auntie Anne's is a convenient stop for warm, freshly baked soft pretzles, bite-sized nuggets and refreshing lemonade when you are craving a quick sweet treat or savory snack."
+   "description": "Auntie Anne's is a convenient stop for warm, freshly baked soft pretzles, bite-sized nuggets and refreshing lemonade when you are craving a quick sweet treat or savory snack.",
+   "address": "101 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "baby-baby",
@@ -3689,8 +3821,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Children's store",
    "description": "From Preemie to Teen. Fun & Playful to Dressed Up. Whatever the occasion is, your child will look great in the clothes you get from Baby Baby.",
-   "lat": 44.022605,
-   "lng": -92.464575,
+   "lat": 44.022253,
+   "lng": -92.464675,
    "hoursText": "Monday - Friday: 9:30AM - 4:30PM\nSaturday - Sunday: Closed",
    "schedule": {
     "type": "weekly",
@@ -3726,7 +3858,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "101 1st Ave SW, Suite 12, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "baser-freight-llc",
@@ -3737,8 +3871,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Freight and logistics",
-   "lat": 44.020137,
-   "lng": -92.463115,
+   "lat": 44.019558,
+   "lng": -92.463263,
    "hoursText": "Monday - Friday 7 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -3775,7 +3909,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Baser Freight LLCis a logistics and freight management company offering full truckload, less than truckload, specialized, temperature-controlled, van, and hotshot transportation services."
+   "description": "Baser Freight LLCis a logistics and freight management company offering full truckload, less than truckload, specialized, temperature-controlled, van, and hotshot transportation services.",
+   "address": "325 S Broadway Ave, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "beck-and-co",
@@ -3786,8 +3922,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Boutique",
-   "lat": 44.020136,
-   "lng": -92.462955,
+   "lat": 44.019643,
+   "lng": -92.46281,
    "hoursText": "Monday 5: p.m. to 8 p.m.; Thursday 5: p.m. to 8 p.m.; Saturday 10 a.m. to 5 p.m.; Sunday 11 a.m. to 3 p.m.; Closed Tuesday - Wednesday, Friday",
    "schedule": {
     "type": "weekly",
@@ -3818,7 +3954,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Beck & Co. is a stylish women's botique offering unique clothing, accessories, jewelry, and personalized styling to help customers create confident looks for work or everyday life."
+   "description": "Beck & Co. is a stylish women's botique offering unique clothing, accessories, jewelry, and personalized styling to help customers create confident looks for work or everyday life.",
+   "address": "324 South Broadway, 100, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "benedicts-rochester",
@@ -3830,8 +3968,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Breakfast and brunch",
    "description": "Begin your day with an extraordinary breakfast experience at the heart of bustling downtown Rochester, Minnesota! Benedict’s, enveloped in the city’s dynamic pulse, offers a warm retreat where contemporary chic meets comforting homestyle charm. Our chefs are here to reinvent your first meal of the day.",
-   "lat": 44.023413,
-   "lng": -92.462859,
+   "lat": 44.023367,
+   "lng": -92.462697,
    "hoursText": "Open daily: 6 a.m. - 3 p.m.",
    "schedule": {
     "type": "weekly",
@@ -3879,7 +4017,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "10 East Center Street, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "bitter-and-pour",
@@ -3891,8 +4031,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Cocktail bar",
    "description": "Bitter & Pouis a subterranean hideaway housed in the Merchant Exchange building on Historic 3rd Street where only the finest spirits and elixirs are served to Rochester’s hippest drinkers.",
-   "lat": 44.020395,
-   "lng": -92.463963,
+   "lat": 44.02031,
+   "lng": -92.463937,
    "hoursText": "Monday: 4pm-12am\nTuesday: 4pm-12am\nWednesday: 4pm-12am\nThursday: 4pm-12am\nFriday: 4pm-12am\nSaturday: 4pm-12am\nSunday: Closed",
    "schedule": {
     "type": "weekly",
@@ -3934,7 +4074,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "18 3rd St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "bleu-duck-kitchen",
@@ -3946,8 +4088,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Restaurant",
    "description": "Bleu Duck Kitchen is a stylish, welcoming restaurant known for creative New American cuisine, thoughtfully crafted cocktails, and a memorable dining experience.",
-   "lat": 44.019231,
-   "lng": -92.463289,
+   "lat": 44.019172,
+   "lng": -92.463688,
    "hoursText": "Bar: Monday-Saturday 4pm-10pm\nDining Room: Monday-Saturday 5pm-10pm",
    "schedule": {
     "type": "weekly",
@@ -4013,7 +4155,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "14 4th St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "blue-sky-dental",
@@ -4024,8 +4168,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Dental",
-   "lat": 44.020395,
-   "lng": -92.463963,
+   "lat": 44.02031,
+   "lng": -92.463937,
    "hoursText": "Monday - Thursday 8:30 a.m. to 4:30 p.m.; Closed Friday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -4056,7 +4200,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Blue Sky Dental is a patient centered family and cosmetic dental practice offering preventative, restorative and advanced dental care."
+   "description": "Blue Sky Dental is a patient centered family and cosmetic dental practice offering preventative, restorative and advanced dental care.",
+   "address": "18 3rd St SW, Ste 300, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "bravo-espresso",
@@ -4067,8 +4213,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Coffee shop",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday - Friday 6 a.m. to 5 p.m.; Saturday 7 a.m. to 2 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -4111,7 +4257,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Bravo espresso is know for well crafted drinks, friendly service and a welcoming community atmosphere."
+   "description": "Bravo espresso is know for well crafted drinks, friendly service and a welcoming community atmosphere.",
+   "address": "111 S Broadway Ave, Suite 219, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "broadway-plaza",
@@ -4122,9 +4270,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Residential",
    "subcategory": "Condominiums",
-   "lat": 44.022577,
-   "lng": -92.46278,
-   "description": "Broadway Plaza offers upscale, spacious accommodations in the heart of downtown, providing convenient access to the Mayo Clinic, dining, shopping, and entertainment."
+   "lat": 44.022702,
+   "lng": -92.462538,
+   "description": "Broadway Plaza offers upscale, spacious accommodations in the heart of downtown, providing convenient access to the Mayo Clinic, dining, shopping, and entertainment.",
+   "address": "15 1st St SE, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "brueggers-bagels",
@@ -4135,8 +4285,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Bagels",
-   "lat": 44.022019,
-   "lng": -92.464582,
+   "lat": 44.021823,
+   "lng": -92.464716,
    "hoursText": "Monday - Friday 6 a.m. to 2 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -4173,7 +4323,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Brueggers Bagels is a casual breakfast and lunch spot serving fresh baked New York style baels, signature cream cheeses, hearty breakfast sandwiches, deli favorites and fresh coffee."
+   "description": "Brueggers Bagels is a casual breakfast and lunch spot serving fresh baked New York style baels, signature cream cheeses, hearty breakfast sandwiches, deli favorites and fresh coffee.",
+   "address": "155 1st Ave SW, Suite 140, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "cafe-steam-downtown",
@@ -4185,8 +4337,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Coffee shop",
    "description": "Cafe Steam is a cozy, welcoming coffee shop serving quality coffee, espresso drinks, and more in a relaxed, community-focused atmosphere.",
-   "lat": 44.020244,
-   "lng": -92.463113,
+   "lat": 44.019882,
+   "lng": -92.463286,
    "hoursText": "Monday 7:00 am - 10:00 pm\nTuesday 7:00 am - 10:00 pm\nWednesday 7:00 am - 10:00 pm\nThursday 7:00 am - 10:00 pm\nFriday 7:00 am - 10:00 pm\nSaturday 8:00 am - 10:00 pm\nSunday 8:00 am - 10:00 pm",
    "schedule": {
     "type": "weekly",
@@ -4234,7 +4386,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "315 S Broadway Ave, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "cafe-steam-skyway-location",
@@ -4246,8 +4400,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Coffee shop",
    "description": "Cafe Steam is a cozy, welcoming coffee shop serving quality coffee, espresso drinks, and more in a relaxed, community-focused atmosphere.",
-   "lat": 44.022027,
-   "lng": -92.462934,
+   "lat": 44.02199,
+   "lng": -92.462565,
    "hoursText": "Monday 7:00 am - 6:00 pm\nTuesday 7:00 am - 6:00 pm\nWednesday 7:00 am - 6:00 pm\nThursday 7:00 am - 6:00 pm\nFriday 7:00 am - 6:00 pm\nSaturday - Closed\nSunday - Closed",
    "schedule": {
     "type": "weekly",
@@ -4283,7 +4437,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "150 S Broadway Ave, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "cambria-gallery-rochester",
@@ -4295,8 +4451,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Home design showroom",
    "description": "At the Cambria Gallery in Rochester, you can see Cambria quartz surfaces in an impressive range of designs. Whether you’re planning a kitchen countertop upgrade or a full remodel, you’ll find what you need.",
-   "lat": 44.019232,
-   "lng": -92.462881,
+   "lat": 44.01917,
+   "lng": -92.46267,
    "hoursText": "Wednesday - 9 AM - 5 PM\nThursday - 9 AM - 5 PM\nFriday - 9 AM - 5 PM\nSaturday - Closed\nSunday - Closed\nMonday - 9 AM - 5 PM\nTuesday - 9 AM - 5 PM",
    "schedule": {
     "type": "weekly",
@@ -4332,7 +4488,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "400 S Broadway Ave, Suite 105, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "caribou-coffee-downtown",
@@ -4343,8 +4501,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Coffee shop",
-   "lat": 44.022605,
-   "lng": -92.464575,
+   "lat": 44.022253,
+   "lng": -92.464675,
    "hoursText": "Monday - Friday 5:30 a.m. to 5:30 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -4381,7 +4539,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Caribou Coffee is a cozy and inviting coffee shop serving handcrafted coffee, espresso drinks, teas, and tasty breakfast and snack options."
+   "description": "Caribou Coffee is a cozy and inviting coffee shop serving handcrafted coffee, espresso drinks, teas, and tasty breakfast and snack options.",
+   "address": "101 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "carrolls-corn",
@@ -4392,8 +4552,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Popcorn and snacks",
-   "lat": 44.023251,
-   "lng": -92.46574,
+   "lat": 44.022954,
+   "lng": -92.4657,
    "hoursText": "Monday - Thursday 7 a.m. to 5:30 p.m.; Friday 7 a.m. to 4:30 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -4430,7 +4590,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "At Caroll's Corn, you can choose from 14 gourmet small batch popcorn flavors. Every batch is popped fresh and packed with flavor."
+   "description": "At Caroll's Corn, you can choose from 14 gourmet small batch popcorn flavors. Every batch is popped fresh and packed with flavor.",
+   "address": "20 2nd Ave SW, B12 Kahler Hotel Subway, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "chateau-theatre",
@@ -4441,9 +4603,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Arts, culture and entertainment",
    "subcategory": "Theater",
-   "lat": 44.022577,
-   "lng": -92.46278,
-   "description": "Chateau Theatre is a beautifully restored historic landmark and community gathering space that brings together local history, culture, events, and entertainment in the heart of downtown."
+   "lat": 44.022702,
+   "lng": -92.462538,
+   "description": "Chateau Theatre is a beautifully restored historic landmark and community gathering space that brings together local history, culture, events, and entertainment in the heart of downtown.",
+   "address": "15 1st St SE, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "chesters-kitchen-and-bar",
@@ -4454,8 +4618,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Restaurant",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday – Thursday\n10:30am – 10pm\nFriday \n10:30am – 10pm\nSaturday\n11am – 10pm",
    "schedule": {
     "type": "weekly",
@@ -4498,7 +4662,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Chester's Kitchen and Bar is a lively restaurant serving classic American favorites like burgers, steak, pasta and salmon alongside cocktails, brunch and tasty desserts."
+   "description": "Chester's Kitchen and Bar is a lively restaurant serving classic American favorites like burgers, steak, pasta and salmon alongside cocktails, brunch and tasty desserts.",
+   "address": "111 S Broadway Ave, Suite 108, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "chicos",
@@ -4509,8 +4675,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Women's clothing",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday - Friday 10 a.m. to 7 p.m.; Saturday 10 a.m. to 5 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -4553,7 +4719,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Chico's is a women's clothing store that offers a curated collection of chic, unique women's clothing, jewlry and and accessories."
+   "description": "Chico's is a women's clothing store that offers a curated collection of chic, unique women's clothing, jewlry and and accessories.",
+   "address": "111 S Broadway Ave, Suite 216, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "chinese-chinhs-express",
@@ -4564,8 +4732,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Chinese restaurant",
-   "lat": 44.022391,
-   "lng": -92.464418,
+   "lat": 44.022328,
+   "lng": -92.464126,
    "hoursText": "Monday - Thursday 11 a.m. to 5 p.m.; Friday 11 a.m. to 3 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -4602,7 +4770,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Chinese Chinh's Express is a quick and convenient spot serving fresh Chinese favorites like Orange Chicken, Fried Rice, Egg Rolls and flavorful specialty dishes."
+   "description": "Chinese Chinh's Express is a quick and convenient spot serving fresh Chinese favorites like Orange Chicken, Fried Rice, Egg Rolls and flavorful specialty dishes.",
+   "address": "100 1st Avenue SW, First Avenue Food Court, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "chocolate-oasis",
@@ -4613,8 +4783,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Chocolate and dessert",
-   "lat": 44.022605,
-   "lng": -92.464575,
+   "lat": 44.022253,
+   "lng": -92.464675,
    "hoursText": "Monday - Thursday 9 a.m. to 3:30 p.m.; Friday 9 a.m. to 3 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -4651,7 +4821,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Chocolate Oasis is a charming sweet shop offering truffles, Minnesota-made chocolates, boxed treats ad specialty candies perfect for indulging yourself or finding a delicious gift."
+   "description": "Chocolate Oasis is a charming sweet shop offering truffles, Minnesota-made chocolates, boxed treats ad specialty candies perfect for indulging yourself or finding a delicious gift.",
+   "address": "101 1st Ave SW, Marriott Subway, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "chocolaterie-stam",
@@ -4662,8 +4834,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Chocolate and dessert",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday 10 a.m. to 7 p.m.; Tuesday open 24 hours; Wednesday - Friday 10 a.m. to 7 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -4706,7 +4878,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Chocolaterie Stam is a charming chocolate shop offering rich European-style chocolates, decadent truffles, gelato, and other handcrafted sweets perfect for treating yourself or someone special."
+   "description": "Chocolaterie Stam is a charming chocolate shop offering rich European-style chocolates, decadent truffles, gelato, and other handcrafted sweets perfect for treating yourself or someone special.",
+   "address": "111 S Broadway Ave, Suite 208, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "cinnabon",
@@ -4717,8 +4891,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Bakery",
-   "lat": 44.022605,
-   "lng": -92.464575,
+   "lat": 44.022253,
+   "lng": -92.464675,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -4755,7 +4929,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Cinnabon is a sweet stop for warm, freshly baked cinnamon rolls topped with signature cream cheese frosting, plus bite sized treats, coffee, and refreshing drinks."
+   "description": "Cinnabon is a sweet stop for warm, freshly baked cinnamon rolls topped with signature cream cheese frosting, plus bite sized treats, coffee, and refreshing drinks.",
+   "address": "101 1st Ave SW, Suite 15, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "city-market",
@@ -4767,8 +4943,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Deli and market",
    "description": "Voted Rochester's Best Deli and Sandwiches for the past seven years. A bustling, urban deli set in the heart of downtown Rochester, featuring big New York-style sandwiches, filled with large portions of freshly sliced meats, gourmet cheeses, crisp vegetables, and one-of-a-kind spreads on bakery-fresh bread.",
-   "lat": 44.021392,
-   "lng": -92.464426,
+   "lat": 44.021103,
+   "lng": -92.464282,
    "hoursText": "Sunday - Closed\nMonday - 7:00AM - 2:00PM\nTuesday - 7:00AM - 2:00PM\nWednesday - 7:00AM - 2:00PM\nThursday - 7:00AM - 2:00PM\nFriday - 7:00AM - 2:00PM\nSaturday - Closed",
    "schedule": {
     "type": "weekly",
@@ -4804,7 +4980,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "212 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "collider-coworking",
@@ -4815,8 +4993,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Shopping centers and coworking",
    "subcategory": "Coworking",
-   "lat": 44.021293,
-   "lng": -92.464583,
+   "lat": 44.020932,
+   "lng": -92.464712,
    "hoursText": "Monday - Friday 8 a.m. to 4 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -4853,7 +5031,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Collider Coworking is a space where entrepreneurs, freelancers, remote workers, and local professionals can work, collaborate, network and turn new ideas into opportunities."
+   "description": "Collider Coworking is a space where entrepreneurs, freelancers, remote workers, and local professionals can work, collaborate, network and turn new ideas into opportunities.",
+   "address": "221 1st Ave SW, Ste 202, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "counterpoint-home",
@@ -4864,8 +5044,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Home goods",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday - Friday 10 a.m. to 6 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -4908,7 +5088,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Counterpoint is a contemporary home and lifestyle botique featuring thoughtfully curated décor, kitchenware, fashion, jewelry, books, and distinctive gifts."
+   "description": "Counterpoint is a contemporary home and lifestyle botique featuring thoughtfully curated décor, kitchenware, fashion, jewelry, books, and distinctive gifts.",
+   "address": "111 S Broadway Ave, Suite 212, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "counterpoint-ii",
@@ -4919,8 +5101,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Clothing boutique",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday - Friday 10 a.m. to 6 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -4963,7 +5145,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Counterpoint is a contemporary home and lifestyle botique featuring thoughtfully curated décor, kitchenware, fashion, jewelry, books, and distinctive gifts."
+   "description": "Counterpoint is a contemporary home and lifestyle botique featuring thoughtfully curated décor, kitchenware, fashion, jewelry, books, and distinctive gifts.",
+   "address": "111 S Broadway Ave, Suite 102, Rochester, MNN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "crave-rochester-hotel-indigo",
@@ -4974,8 +5158,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Restaurant",
-   "lat": 44.021292,
-   "lng": -92.46294,
+   "lat": 44.02087,
+   "lng": -92.462788,
    "hoursText": "Monday - Thursday 7: p.m. to 10 a.m. and 11 a.m. to 10 p.m.; Friday 7: p.m. to 10 a.m. and 11 a.m. to 11 p.m.; Saturday 7: p.m. to 9 a.m. and 11 a.m. to 11 p.m.; Sunday 7: p.m. to 9 a.m. and 11 a.m. to 10 p.m.",
    "schedule": {
     "type": "weekly",
@@ -5052,7 +5236,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "CRAVE at Hotel Indigo Rochester is a stylish downtown dining spot offering a creative menu of American favorites, sushi, cocktails, and shareable dishes in a lively, modern atmosphere."
+   "description": "CRAVE at Hotel Indigo Rochester is a stylish downtown dining spot offering a creative menu of American favorites, sushi, cocktails, and shareable dishes in a lively, modern atmosphere.",
+   "address": "220 S Broadway Ave, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "downtown-comfort-zone-chinese-relaxing-spa",
@@ -5063,8 +5249,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Massage",
-   "lat": 44.024609,
-   "lng": -92.46309,
+   "lat": 44.025045,
+   "lng": -92.46326,
    "hoursText": "Open daily 9:30 a.m. to 9:30 p.m.",
    "schedule": {
     "type": "weekly",
@@ -5113,7 +5299,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Downtown Comfort Zone Chinese Relaxing Spa in offers a peaceful setting for relaxing massage and wellness services designed to help guests unwind and recharge."
+   "description": "Downtown Comfort Zone Chinese Relaxing Spa in offers a peaceful setting for relaxing massage and wellness services designed to help guests unwind and recharge.",
+   "address": "119 N Broadway Ave, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "downtown-dental-care",
@@ -5125,12 +5313,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Dental",
    "description": "Conveniently located just one block East of Mayo Clinic, we are within walking distance for downtown busy professionals. We also welcome active families with Moms, Dads, and kids on-the-go as well as individuals who are looking for efficient, up-to-date, reliable, consistent visits with comfortable results. When you visit our office, we believe you will notice a distinct difference and exceptional attention to detail in all that we do.",
-   "lat": 44.021392,
-   "lng": -92.464426,
+   "lat": 44.021103,
+   "lng": -92.464282,
    "hoursText": "Mon 7:30a - 2:30p\nT - Th 7:30a to 4:30p\nFriday-closed",
    "schedule": {
     "type": "varies"
-   }
+   },
+   "address": "212 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "dunlap-and-seeger",
@@ -5141,8 +5331,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Legal",
    "subcategory": "Law firm",
-   "lat": 44.022406,
-   "lng": -92.46005,
+   "lat": 44.022477,
+   "lng": -92.459381,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -5179,7 +5369,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Dunlap & Seeger is a local law firm providing expereinced, personalized legal guidance to individuals and businesses throughout the community."
+   "description": "Dunlap & Seeger is a local law firm providing expereinced, personalized legal guidance to individuals and businesses throughout the community.",
+   "address": "30 Civic Center Drive SE, Suite 200, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "eagle-store",
@@ -5191,8 +5383,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Retail store",
    "description": "Eagle Store is your neighborhood variety store in Rochester, MN. Our family-owned business is located just one block from the Mayo Clinic. We'll help you find what you need, and we can explain all the important information you need to know about any of the products we offer. You'll even be able to find gifts and other useful items in our extensive selection of products.",
-   "lat": 44.021607,
-   "lng": -92.463398,
+   "lat": 44.021745,
+   "lng": -92.464196,
    "hoursText": "Tuesday-Saturday: 10:00am to 4:00pm\nClosed: Sunday and Monday",
    "schedule": {
     "type": "weekly",
@@ -5228,7 +5420,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "23 2nd St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "eclipse-architecture-group",
@@ -5239,8 +5433,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Architecture",
-   "lat": 44.020114,
-   "lng": -92.462956,
+   "lat": 44.019523,
+   "lng": -92.46272,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -5277,7 +5471,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Eclipse Architecture Group is an architecture and design firm providing residential and commercial architecture drawing services with decades of local experience."
+   "description": "Eclipse Architecture Group is an architecture and design firm providing residential and commercial architecture drawing services with decades of local experience.",
+   "address": "326 S. Broadway, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "ell-boutique",
@@ -5288,8 +5484,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Boutique",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday - Friday 10 a.m. to 6 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -5332,7 +5528,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "ELL Botique is a stylish shop offering a thoughtfully curated selection of clothes, accessories, and unique finds for a fun and personalized shopping expereince."
+   "description": "ELL Botique is a stylish shop offering a thoughtfully curated selection of clothes, accessories, and unique finds for a fun and personalized shopping expereince.",
+   "address": "111 S Broadway Ave, Suite 204, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "experience-rochester",
@@ -5343,8 +5541,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Community and nonprofit",
    "subcategory": "Tourism bureau",
-   "lat": 44.022406,
-   "lng": -92.46005,
+   "lat": 44.022477,
+   "lng": -92.459381,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -5381,7 +5579,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Experience Rochester helps visitors and locals discover the best of Rochester, from dining and attractions to events and memorable experiences."
+   "description": "Experience Rochester helps visitors and locals discover the best of Rochester, from dining and attractions to events and memorable experiences.",
+   "address": "30 Civic Center Drive SE, Suite 200, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "eye-q-intelligent-eyewear",
@@ -5392,8 +5592,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Eyewear and optical",
-   "lat": 44.023251,
-   "lng": -92.46574,
+   "lat": 44.022954,
+   "lng": -92.4657,
    "hoursText": "Monday - Friday 9:30 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -5430,7 +5630,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Eye-Q Intelligent Eyeware offers curated luxury eyeware, expert lens fittings and personalized styling to help you feel confident and comfortable in your new glasses."
+   "description": "Eye-Q Intelligent Eyeware offers curated luxury eyeware, expert lens fittings and personalized styling to help you feel confident and comfortable in your new glasses.",
+   "address": "20 2nd Ave SW, Suite 77, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "friends-of-the-library-bookstore",
@@ -5441,8 +5643,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Bookstore",
-   "lat": 44.021607,
-   "lng": -92.4615,
+   "lat": 44.021761,
+   "lng": -92.460484,
    "hoursText": "Monday - Thursday 11 a.m. to 6 p.m.; Friday - Saturday 11 a.m. to 2 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -5485,7 +5687,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "The Friends of the Library Bookstore specializes in quality used books at reasonable prices with proceeds benefitting the Rochester Public Library."
+   "description": "The Friends of the Library Bookstore specializes in quality used books at reasonable prices with proceeds benefitting the Rochester Public Library.",
+   "address": "101 2nd St SE, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "galleria-at-university-square",
@@ -5496,8 +5700,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Shopping centers and coworking",
    "subcategory": "Shopping center",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday - Friday 10 a.m. to 7 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -5540,7 +5744,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Galleria at Univeristy Square is a vibrant destination featuring a mix of shopping, dining, specialty services, and local favorites, all conveniently connected to the skyway system and just steps from the Mayo Clinic."
+   "description": "Galleria at Univeristy Square is a vibrant destination featuring a mix of shopping, dining, specialty services, and local favorites, all conveniently connected to the skyway system and just steps from the Mayo Clinic.",
+   "address": "111 Broadway Ave S, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "games-by-james",
@@ -5595,7 +5801,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Games by James is a fun game store offering a large selection of board games, puzzles, brain teasers, and more for players of all ages and interests."
+   "description": "Games by James is a fun game store offering a large selection of board games, puzzles, brain teasers, and more for players of all ages and interests.",
+   "address": "111 S Broadway Ave S, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded via US Census (street interpolation)"
   },
   {
    "id": "geneticure",
@@ -5606,9 +5814,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Genetic testing",
-   "lat": 44.020394,
-   "lng": -92.463883,
-   "description": "Geneticure is a precision medicine and biology company that uses genetic testing to help personalize treatment decisions and improve how patients respond to medications."
+   "lat": 44.020323,
+   "lng": -92.463378,
+   "description": "Geneticure is a precision medicine and biology company that uses genetic testing to help personalize treatment decisions and improve how patients respond to medications.",
+   "address": "4 3rd St SW, Ste 305b, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "ginnys-fine-fabrics",
@@ -5620,8 +5830,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Fabrics",
    "description": "Ginny’s Fine Fabrics is the premier destination for high quality fabric and has been for over 49 years. Their store is bursting at the seams with cashmere wool, colorful linen from Italy, French lace, unique cotton prints from Japan, beautifully patterned silks and gorgeous bridal fabrics and trims.",
-   "lat": 44.021392,
-   "lng": -92.4631,
+   "lat": 44.021114,
+   "lng": -92.463277,
    "hoursText": "Tuesday-Saturday: 10:00am to 4:00pm\nClosed: Sunday and Monday",
    "schedule": {
     "type": "weekly",
@@ -5657,7 +5867,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "211 S Broadway Ave, Suite 1, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "goodyear-auto-service-center",
@@ -5668,8 +5880,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Automotive",
    "subcategory": "Tire and auto service",
-   "lat": 44.023611,
-   "lng": -92.462947,
+   "lat": 44.023823,
+   "lng": -92.462823,
    "hoursText": "Monday - Friday 7 a.m. to 6 p.m.; Saturday 8 a.m. to 5 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -5712,7 +5924,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Goodyear Auto Service Center is a full-service automotive shop offering tires, oil changes, brake repairs, alignments, diagnostics, and routine maintenance to help keep your vehicle running safely and smoothly."
+   "description": "Goodyear Auto Service Center is a full-service automotive shop offering tires, oil changes, brake repairs, alignments, diagnostics, and routine maintenance to help keep your vehicle running safely and smoothly.",
+   "address": "12 N Broadway Ave, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "griot-arts",
@@ -5724,12 +5938,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Arts, culture and entertainment",
    "subcategory": "Arts organization",
    "description": "Griot Arts operates a bookstore and community creative space. It is a gathering space, resource hub, and convener of diverse, intersectional arts-based programming, alliances, and events for all, while centering Black lives and experiences from across the diaspora.",
-   "lat": 44.024575,
-   "lng": -92.46309,
+   "lat": 44.024977,
+   "lng": -92.463263,
    "hoursText": "Visit https://www.griotartsmn.com/ for current business hours.",
    "schedule": {
     "type": "varies"
-   }
+   },
+   "address": "115 N Broadway Ave, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "guidepoint-pharmacy",
@@ -5740,8 +5956,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Pharmacy",
-   "lat": 44.025683,
-   "lng": -92.46295,
+   "lat": 44.025699,
+   "lng": -92.462533,
    "hoursText": "Monday - Friday 9 a.m. to 5:30 p.m.; Saturday 9 a.m. to noon; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -5784,7 +6000,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "GuidePoint Pharmacy is a full-service pharmacy offering prescriptions, vaccinations, health screenings, medication counseling, free local delivery, and personalized care."
+   "description": "GuidePoint Pharmacy is a full-service pharmacy offering prescriptions, vaccinations, health screenings, medication counseling, free local delivery, and personalized care.",
+   "address": "202 N Broadway Ave, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "healing-touch-spa-at-the-hilton",
@@ -5796,8 +6014,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Spa",
    "description": "Healing Touch Spa supports people who value a “wellness-oriented” lifestyle reap the benefits of consistent self-care.\nWe provide education, specialty techniques, innovative treatments, and a relaxing and luxurious atmosphere unlike any other in Minnesota.",
-   "lat": 44.023413,
-   "lng": -92.462859,
+   "lat": 44.023367,
+   "lng": -92.462697,
    "hoursText": "Monday - Friday 9 a.m. to 9 p.m.; Saturday 9 a.m. to 6 p.m.; Sunday 12: p.m. to 7 p.m.",
    "schedule": {
     "type": "weekly",
@@ -5845,7 +6063,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "10 E Center St, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "heritage-house-victorian-museum",
@@ -5856,8 +6076,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Arts, culture and entertainment",
    "subcategory": "Museum",
-   "lat": 44.021251,
-   "lng": -92.4631,
+   "lat": 44.020838,
+   "lng": -92.463324,
    "hoursText": "Tuesday - Wednesday 11:30 a.m. to 3:30 p.m.; Closed Monday, Thursday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -5876,7 +6096,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Heritage House Victorian Museum offers the opportunity to see how life was lived in the 1800's with beautifully preserved rooms, period furnishings, and local history."
+   "description": "Heritage House Victorian Museum offers the opportunity to see how life was lived in the 1800's with beautifully preserved rooms, period furnishings, and local history.",
+   "address": "225 S Broadway Ave, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "hers",
@@ -5887,8 +6109,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Women's clothing",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday - Friday 10 a.m. to 7 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -5931,7 +6153,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Hers is a botique located in The Galleria at University Square with on-trend fashion, accessories and gifts."
+   "description": "Hers is a botique located in The Galleria at University Square with on-trend fashion, accessories and gifts.",
+   "address": "111 S Broadway Ave, Suite 205, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "hga-architecture",
@@ -5942,8 +6166,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Architecture",
-   "lat": 44.021494,
-   "lng": -92.464429,
+   "lat": 44.021403,
+   "lng": -92.464292,
    "hoursText": "Monday - Friday 8 a.m. to 5:30 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -5980,7 +6204,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "HGA Architecture is a interdisciplinary design firm know for creating innovative architecture for healthcare, education, corporate, and community spaces."
+   "description": "HGA Architecture is a interdisciplinary design firm know for creating innovative architecture for healthcare, education, corporate, and community spaces.",
+   "address": "202 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "hilton-garden-inn",
@@ -5991,9 +6217,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Hotel",
-   "lat": 44.021251,
-   "lng": -92.4631,
-   "description": "Hilton Garden Inn Rochester Downtown is a comfortable downtown hotel offering modern rooms, an indoor pool, fitness center, on-site dining, and convenient skyway access and transportation to nearby Mayo Clinic facilities."
+   "lat": 44.020838,
+   "lng": -92.463324,
+   "description": "Hilton Garden Inn Rochester Downtown is a comfortable downtown hotel offering modern rooms, an indoor pool, fitness center, on-site dining, and convenient skyway access and transportation to nearby Mayo Clinic facilities.",
+   "address": "225 S Broadway Ave, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "hilton-rochester-mayo-clinic-area",
@@ -6004,9 +6232,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Hotel",
-   "lat": 44.023413,
-   "lng": -92.462859,
-   "description": "Hilton Rochester Mayo Clinic Area is an upscale downtown hotel offering modern accommodations, on-site dining, an indoor pool, fitness center, spa, and convenient climate-controlled skyway access to Mayo Clinic and other downtown destinations."
+   "lat": 44.023367,
+   "lng": -92.462697,
+   "description": "Hilton Rochester Mayo Clinic Area is an upscale downtown hotel offering modern accommodations, on-site dining, an indoor pool, fitness center, spa, and convenient climate-controlled skyway access to Mayo Clinic and other downtown destinations.",
+   "address": "10 E Center St, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "hollandberry-pannekoeken",
@@ -6018,8 +6248,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Restaurant",
    "description": "Enjoy deliciously hand crafted Dutch home-cooking at Hollandberry, they not only serve breakfast, but also lunch and dinner. They have 20 varieties of Magnificent Muffins – baked fresh daily.",
-   "lat": 44.025826,
-   "lng": -92.462952,
+   "lat": 44.026014,
+   "lng": -92.462518,
    "hoursText": "Monday – Friday\n6:30 AM – 8:00 PM\nSaturday & Sunday\n6:30 AM – 4:00 PM",
    "schedule": {
     "type": "weekly",
@@ -6067,7 +6297,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "214 Broadway Ave N, Rochester, MN 55903",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "hotel-indigo-rochester-mayo-clinic-area",
@@ -6078,9 +6310,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Hotel",
-   "lat": 44.021292,
-   "lng": -92.46294,
-   "description": "Hotel Indigo Rochester – Mayo Clinic Area is a stylish downtown hotel offering comfortable modern rooms, on-site dining, a fitness center, free Wi-Fi, and convenient skyway access to Mayo Clinic and nearby attractions."
+   "lat": 44.02087,
+   "lng": -92.462788,
+   "description": "Hotel Indigo Rochester – Mayo Clinic Area is a stylish downtown hotel offering comfortable modern rooms, on-site dining, a fitness center, free Wi-Fi, and convenient skyway access to Mayo Clinic and nearby attractions.",
+   "address": "220 S Broadway Ave, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "hyatt-house-rochester-mayo-clinic-area",
@@ -6091,9 +6325,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Hotel",
-   "lat": 44.026318,
-   "lng": -92.464563,
-   "description": "Hyatt House Rochester / Mayo Clinic Area is a modern, comfortable hotel offering spacious rooms and suites with a convenient location near Mayo Clinic, making it a welcoming choice for both short and extended stays."
+   "lat": 44.026719,
+   "lng": -92.464907,
+   "description": "Hyatt House Rochester / Mayo Clinic Area is a modern, comfortable hotel offering spacious rooms and suites with a convenient location near Mayo Clinic, making it a welcoming choice for both short and extended stays.",
+   "address": "315 1st Avenue NW, Rochester, MN 55901",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "international-spices",
@@ -6104,8 +6340,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "International grocery",
-   "lat": 44.023527,
-   "lng": -92.461152,
+   "lat": 44.023635,
+   "lng": -92.460318,
    "hoursText": "Monday - Saturday 9 a.m. to 8 p.m.; Sunday 10 a.m. to 4 p.m.",
    "schedule": {
     "type": "weekly",
@@ -6154,7 +6390,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "International Spices is a great spot for discovering unique spices, specialty ingredients, and international foods that bring exciting flavors to your kitchen."
+   "description": "International Spices is a great spot for discovering unique spices, specialty ingredients, and international foods that bring exciting flavors to your kitchen.",
+   "address": "125 E Center St, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "james-krom-natural-images-art-museum-gallery",
@@ -6166,12 +6404,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Arts, culture and entertainment",
    "subcategory": "Art gallery",
    "description": "James Krom Natural Images specializes in works by national and Upper Midwest artists that focus on capturing the majesty of nature. Through paintings, sculptures and jewelry visitors are invited to explore the unique natural beauty of the region and the country.",
-   "lat": 44.022605,
-   "lng": -92.464575,
+   "lat": 44.022253,
+   "lng": -92.464675,
    "hoursText": "MON-FRI 9-5",
    "schedule": {
     "type": "varies"
-   }
+   },
+   "address": "101 1st Ave SW, Suite 42, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "john-kruesels-general-merchandise",
@@ -6182,8 +6422,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Antiques",
-   "lat": 44.020395,
-   "lng": -92.463986,
+   "lat": 44.020312,
+   "lng": -92.464108,
    "hoursText": "Wednesday - Saturday 1: p.m. to 5 p.m.; Closed Monday - Tuesday, Sunday",
    "schedule": {
     "type": "weekly",
@@ -6214,7 +6454,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "John Kruesel's General Merchandise is a charming shop offering unique gifts, collectibes, antiques, and nostalgic finds with an old-fashioned atmosphere."
+   "description": "John Kruesel's General Merchandise is a charming shop offering unique gifts, collectibes, antiques, and nostalgic finds with an old-fashioned atmosphere.",
+   "address": "22 3rd St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "kahler-barbershop",
@@ -6225,13 +6467,15 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Barbershop",
-   "lat": 44.022605,
-   "lng": -92.464575,
+   "lat": 44.022253,
+   "lng": -92.464675,
    "hoursText": "Open daily open 24 hours",
    "schedule": {
     "type": "always"
    },
-   "description": "Kahler Barbershop is a traditional shop offering a variety of styles from friendly barbers."
+   "description": "Kahler Barbershop is a traditional shop offering a variety of styles from friendly barbers.",
+   "address": "101 1st Ave SW, Suite 139, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "kahler-grand-hotel",
@@ -6242,13 +6486,15 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Hotel",
-   "lat": 44.023251,
-   "lng": -92.46574,
+   "lat": 44.022954,
+   "lng": -92.4657,
    "hoursText": "Open daily open 24 hours",
    "schedule": {
     "type": "always"
    },
-   "description": "The Kahler Grand Hotel in Rochester, MN is a historic downtown hotel offering comfortable accommodations, on-site dining, a rooftop indoor pool, and exceptionally convenient underground access to Mayo Clinic."
+   "description": "The Kahler Grand Hotel in Rochester, MN is a historic downtown hotel offering comfortable accommodations, on-site dining, a rooftop indoor pool, and exceptionally convenient underground access to Mayo Clinic.",
+   "address": "20 2nd Ave SW, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "kathys-pub",
@@ -6259,8 +6505,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Pub",
-   "lat": 44.020329,
-   "lng": -92.463112,
+   "lat": 44.020123,
+   "lng": -92.463286,
    "hoursText": "Monday - Friday 10 a.m. to 2 a.m.; Saturday 8 a.m. to 2 a.m.; Sunday 10 a.m. to 2 a.m.",
    "schedule": {
     "type": "weekly",
@@ -6337,7 +6583,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Kathy's pub features a rooftop pation, pool tables, live band performances and a large slection of drinks to enjoy."
+   "description": "Kathy's pub features a rooftop pation, pool tables, live band performances and a large slection of drinks to enjoy.",
+   "address": "307 S Broadway Ave, Rochester MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "kimball-g-orwoll-attorney-at-law",
@@ -6348,8 +6596,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Legal",
    "subcategory": "Law firm",
-   "lat": 44.019232,
-   "lng": -92.462881,
+   "lat": 44.01917,
+   "lng": -92.46267,
    "hoursText": "Monday - Thursday 8 a.m. to 5 p.m.; Friday 8 a.m. to 4 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -6386,7 +6634,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Kimball G. Orwoll is a longtime Rochester law attorney handling divorce, custody, guardianship, child protection, estate planning, and alternative dispute resolution matters."
+   "description": "Kimball G. Orwoll is a longtime Rochester law attorney handling divorce, custody, guardianship, child protection, estate planning, and alternative dispute resolution matters.",
+   "address": "400 S Broadway Ave, Suite 11, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "kimley-horn",
@@ -6397,8 +6647,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Engineering",
-   "lat": 44.020158,
-   "lng": -92.463114,
+   "lat": 44.01964,
+   "lng": -92.463286,
    "hoursText": "Monday - Thursday 7:30 a.m. to 5:30 p.m.; Friday 7: p.m. to 11:30 a.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -6435,7 +6685,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Kimley-Horn is a multidisciplinary consulting firm providing engineering, planning, transportation, infrastructure, landscape architecture, and development services for public and private projects."
+   "description": "Kimley-Horn is a multidisciplinary consulting firm providing engineering, planning, transportation, infrastructure, landscape architecture, and development services for public and private projects.",
+   "address": "323 S Broadway Ave, Rochester MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "knights-chamber",
@@ -6447,12 +6699,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Bar and restaurant",
    "description": "Knight’s Chamber is a quality men’s clothing store offering a stylish selection of casual and dress apparel, including suits, sport coats, shirts, jeans, shoes, and accessories.",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday-Friday 10AM-7PM\n\nSaturday - 10AM-4PM\n\nSunday - 12-4",
    "schedule": {
     "type": "varies"
-   }
+   },
+   "address": "111 S Broadway Ave, Suite 209, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "kraus-anderson-construction-company",
@@ -6463,8 +6717,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Construction",
-   "lat": 44.018082,
-   "lng": -92.46582,
+   "lat": 44.018054,
+   "lng": -92.465772,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -6501,7 +6755,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Kraus-Anderson Construciton Company provides construction services, property development and management, commercial real estate leasing and risk consulting and commerical insurance to help bring clients' ideas to fruition."
+   "description": "Kraus-Anderson Construciton Company provides construction services, property development and management, commercial real estate leasing and risk consulting and commerical insurance to help bring clients' ideas to fruition.",
+   "address": "502 2nd Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "kruger-law-offices-llc",
@@ -6512,8 +6768,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Legal",
    "subcategory": "Law firm",
-   "lat": 44.024459,
-   "lng": -92.463197,
+   "lat": 44.024571,
+   "lng": -92.463665,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -6550,7 +6806,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Kruger Law Office, LLC provides personalized legal guidance in bankruptcy, family law, divorce, and estate planning, with a focus on protecting clients' interests."
+   "description": "Kruger Law Office, LLC provides personalized legal guidance in bankruptcy, family law, divorce, and estate planning, with a focus on protecting clients' interests.",
+   "address": "9 1st St NW, Rochester, MN 55901",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "larhea-boutique",
@@ -6561,8 +6819,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Boutique",
-   "lat": 44.022605,
-   "lng": -92.464575,
+   "lat": 44.022253,
+   "lng": -92.464675,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -6599,7 +6857,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "LaRhea Botique is a women's clothing storefilled with stylish, comfortable and unique clothing. The sales staff is friendly and ready to help people create the perfect outfit."
+   "description": "LaRhea Botique is a women's clothing storefilled with stylish, comfortable and unique clothing. The sales staff is friendly and ready to help people create the perfect outfit.",
+   "address": "101 1st  Ave SW, Marriott Hotel Subway, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "lasker-jewelers",
@@ -6610,8 +6870,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Jewelry",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Mon: 10:00AM - 7:00PM\nTue - Fri: 10:00AM - 6:00PM\nSat: 10:00AM - 4:00PM\nSun: Closed",
    "schedule": {
     "type": "weekly",
@@ -6654,7 +6914,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Laskers Jewelers specializes in fine jewelry for any occasion. They offer a large selection of designers and styles, including customization."
+   "description": "Laskers Jewelers specializes in fine jewelry for any occasion. They offer a large selection of designers and styles, including customization.",
+   "address": "111 S Broadway Ave, Suite 109, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "lenscrafters",
@@ -6665,8 +6927,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Eyewear and optical",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday - Friday 9 a.m. to 7 p.m.; Saturday 9 a.m. to 5 p.m.; Sunday 12: p.m. to 5 p.m.",
    "schedule": {
     "type": "weekly",
@@ -6715,7 +6977,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "At Lenscrafters you can browse prescription glasses, sunglasses and designer frames to find the perfect pair that will leave you feeling confident and comfortable."
+   "description": "At Lenscrafters you can browse prescription glasses, sunglasses and designer frames to find the perfect pair that will leave you feeling confident and comfortable.",
+   "address": "111 S Broadway Ave, Suite 101, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "limb-lab",
@@ -6726,8 +6990,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Prosthetics and orthotics",
-   "lat": 44.019232,
-   "lng": -92.462881,
+   "lat": 44.01917,
+   "lng": -92.46267,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -6764,7 +7028,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Limb Lab helps people regain comfort, mobility, and confidence through custom prosthetic and orthotic solutions tailored to their lifestyles, goals and daily activities."
+   "description": "Limb Lab helps people regain comfort, mobility, and confidence through custom prosthetic and orthotic solutions tailored to their lifestyles, goals and daily activities.",
+   "address": "400 S Broadway Ave, Suite 106, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "mango-thai",
@@ -6775,8 +7041,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Thai restaurant",
-   "lat": 44.0202,
-   "lng": -92.462954,
+   "lat": 44.019824,
+   "lng": -92.462817,
    "hoursText": "Monday - Thursday 11 a.m. to 9 p.m.; Friday 11 a.m. to 10 p.m.; Saturday 12: p.m. to 10 p.m.; Sunday 12: p.m. to 8 p.m.",
    "schedule": {
     "type": "weekly",
@@ -6825,7 +7091,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "At Mango Thai you will find tasty Thai dishes made with passion and care and served with frendly smiles."
+   "description": "At Mango Thai you will find tasty Thai dishes made with passion and care and served with frendly smiles.",
+   "address": "318  S Broadway Ave, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "mayo-clinic-store",
@@ -6836,8 +7104,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Gift shop",
-   "lat": 44.021493,
-   "lng": -92.46459,
+   "lat": 44.02231,
+   "lng": -92.465738,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -6874,7 +7142,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "The Mayo Clinic Store is a convenient resource offering medical supplies, health and wellness products, and specialty items designed to support patients and caregivers."
+   "description": "The Mayo Clinic Store is a convenient resource offering medical supplies, health and wellness products, and specialty items designed to support patients and caregivers.",
+   "address": "100 2nd Ave SW, SL 123, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "metropolitan-market-place",
@@ -6885,8 +7155,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Shopping centers and coworking",
    "subcategory": "Shopping center",
-   "lat": 44.01796,
-   "lng": -92.464578,
+   "lat": 44.017606,
+   "lng": -92.464709,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -6923,7 +7193,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Metropolitan Market Place is a  3-floor urban-style apartment complex outfitted with contemporary amenities and open living spaces."
+   "description": "Metropolitan Market Place is a  3-floor urban-style apartment complex outfitted with contemporary amenities and open living spaces.",
+   "address": "515 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "mill-creek-life-sciences",
@@ -6934,9 +7206,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Life sciences",
-   "lat": 44.021293,
-   "lng": -92.464583,
-   "description": "Mill Creek Life Sciences provides tools and technologies to support the development and application of cellular and biological therapeutics."
+   "lat": 44.020932,
+   "lng": -92.464712,
+   "description": "Mill Creek Life Sciences provides tools and technologies to support the development and application of cellular and biological therapeutics.",
+   "address": "221 1st Ave SW, Suite 209, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "moka",
@@ -6947,8 +7221,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Coffee shop",
-   "lat": 44.022402,
-   "lng": -92.464101,
+   "lat": 44.022435,
+   "lng": -92.463954,
    "hoursText": "Monday - Friday 6 a.m. to 3 p.m.; Saturday - Sunday 7 a.m. to 3 p.m.",
    "schedule": {
     "type": "weekly",
@@ -6997,7 +7271,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "MOKA coffee is roasted by a small family owned and operated roastery. Their coffee shop sels premium coffee, espresso and tea."
+   "description": "MOKA coffee is roasted by a small family owned and operated roastery. Their coffee shop sels premium coffee, espresso and tea.",
+   "address": "18 1st Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "murakami-law-firm-llc",
@@ -7008,8 +7284,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Legal",
    "subcategory": "Law firm",
-   "lat": 44.024459,
-   "lng": -92.463197,
+   "lat": 44.024571,
+   "lng": -92.463665,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -7046,7 +7322,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Murakami Law Firm, LLC offers straightforward, personalized legal guidance pertaining to bankruptcy, personal injury or wrongful death."
+   "description": "Murakami Law Firm, LLC offers straightforward, personalized legal guidance pertaining to bankruptcy, personal injury or wrongful death.",
+   "address": "9 1st St NW, Rochester, MN 55901",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "neon-green-studio",
@@ -7057,9 +7335,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Design studio",
-   "lat": 44.020394,
-   "lng": -92.463883,
-   "description": "Neon Green Studio is an art stores that invites people to explore their creative side. You can drop in to make a craft or purchase a variety of pre-assembled creative kits."
+   "lat": 44.020323,
+   "lng": -92.463378,
+   "description": "Neon Green Studio is an art stores that invites people to explore their creative side. You can drop in to make a craft or purchase a variety of pre-assembled creative kits.",
+   "address": "4 3rd St SW, Suite 201, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "newts-express",
@@ -7070,8 +7350,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Burgers",
-   "lat": 44.022391,
-   "lng": -92.464418,
+   "lat": 44.022328,
+   "lng": -92.464126,
    "hoursText": "Monday - Friday 10:30 a.m. to 2 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -7108,7 +7388,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Newt's Express offers a large selection of burgers, sandwiches, salads and other tasty entrees. The the meats, breads and other ingredients are fresh and prepared with care."
+   "description": "Newt's Express offers a large selection of burgers, sandwiches, salads and other tasty entrees. The the meats, breads and other ingredients are fresh and prepared with care.",
+   "address": "100 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "old-rooster-antiques",
@@ -7119,8 +7401,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Antiques",
-   "lat": 44.024508,
-   "lng": -92.46293,
+   "lat": 44.0247,
+   "lng": -92.462814,
    "hoursText": "Open daily 10 a.m. to 5 p.m.",
    "schedule": {
     "type": "weekly",
@@ -7169,7 +7451,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Old Rooster Antiques features a large selection of collectibles and antique pieces including china, pottery, jewlery, toys, tools and more."
+   "description": "Old Rooster Antiques features a large selection of collectibles and antique pieces including china, pottery, jewlery, toys, tools and more.",
+   "address": "106 N Broadway Ave, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "on-track-boutique",
@@ -7181,8 +7465,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Boutique",
    "description": "At On Track Botique, you can find a great selection of accessories, shoes, home decor and gift items.",
-   "lat": 44.025397,
-   "lng": -92.46295,
+   "lat": 44.025596,
+   "lng": -92.462537,
    "hoursText": "Monday-Friday 10am-6pm\nSaturday  10am-4pm\nSunday    Closed",
    "schedule": {
     "type": "weekly",
@@ -7224,7 +7508,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "200 N Broadway Ave, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "optical-vision-w-flair",
@@ -7235,8 +7521,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Eyewear and optical",
-   "lat": 44.022279,
-   "lng": -92.464419,
+   "lat": 44.022059,
+   "lng": -92.464308,
    "hoursText": "Monday - Friday 10 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -7273,7 +7559,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Optical Vision with Flair is a locally owned eyewear shop offering stylish designer frames, prescription glasses, sunglasses, lenses, and personalized fitting services."
+   "description": "Optical Vision with Flair is a locally owned eyewear shop offering stylish designer frames, prescription glasses, sunglasses, lenses, and personalized fitting services.",
+   "address": "114 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "pasquales-neighborhood-pizzeria",
@@ -7285,8 +7573,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Pizza",
    "description": "Pasquale's Neighborhood Pizzeria serves authentic NY style pizza along with simple, traditional Italian food. From Bari, Italy to New York City to Rochester; Chef Pasquale is excited to share his food and culture with you.",
-   "lat": 44.018103,
-   "lng": -92.464959,
+   "lat": 44.018066,
+   "lng": -92.464835,
    "hoursText": "Monday: Closed\nTuesday: 11 am to 8 pm\nWednesday: 11 am to 8 pm\nThursday: 11 am to 8 pm\nFriday: 11 am to 8:30 pm\nSaturday: Noon to 8:30 pm\nSunday: Noon to 8 pm",
    "schedule": {
     "type": "weekly",
@@ -7328,7 +7616,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "130 5th St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "peoples-food-co-op",
@@ -7339,8 +7629,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Grocery co-op",
-   "lat": 44.01792,
-   "lng": -92.464577,
+   "lat": 44.017228,
+   "lng": -92.46475,
    "hoursText": "Open daily 8 a.m. to 9 p.m.",
    "schedule": {
     "type": "weekly",
@@ -7389,7 +7679,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "People's Food Co-Op is a health conscious grocery store featuring local organic produceand specialty dietary options."
+   "description": "People's Food Co-Op is a health conscious grocery store featuring local organic produceand specialty dietary options.",
+   "address": "519 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "pittsburgh-blue-steakhouse",
@@ -7400,8 +7692,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Steakhouse",
-   "lat": 44.023413,
-   "lng": -92.462859,
+   "lat": 44.023367,
+   "lng": -92.462697,
    "hoursText": "Open daily 3 p.m. to 10 p.m.",
    "schedule": {
     "type": "weekly",
@@ -7450,7 +7742,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Pittsburgh Blue Steakhouse serves hand-cut, wet-aged beef, along with super-fresh seafood and burgers."
+   "description": "Pittsburgh Blue Steakhouse serves hand-cut, wet-aged beef, along with super-fresh seafood and burgers.",
+   "address": "10  East Center Street, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "poppi-italian-leather",
@@ -7461,8 +7755,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Leather goods",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday - Friday 10 a.m. to 6 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -7505,7 +7799,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Poppi Italian Leather sells handcrafted leather bags, apparel, jewlrey & Murano glassware all made in Italy."
+   "description": "Poppi Italian Leather sells handcrafted leather bags, apparel, jewlrey & Murano glassware all made in Italy.",
+   "address": "111 S Broadway Ave, Suite 110, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "premier-banks-minnesota",
@@ -7516,8 +7812,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Bank",
-   "lat": 44.019017,
-   "lng": -92.464587,
+   "lat": 44.018366,
+   "lng": -92.464921,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -7554,7 +7850,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Premier Banks is a Minnesota-based community banking organization offering personal and business banking, loans, savings, digital banking, and other financial services with an emphasis on responsive, personalized service."
+   "description": "Premier Banks is a Minnesota-based community banking organization offering personal and business banking, loans, savings, digital banking, and other financial services with an emphasis on responsive, personalized service.",
+   "address": "421 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "pure-barre",
@@ -7565,8 +7863,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Fitness",
-   "lat": 44.018103,
-   "lng": -92.465263,
+   "lat": 44.018059,
+   "lng": -92.465332,
    "hoursText": "Monday - Thursday 5 a.m. to 6:30 p.m.; Friday 5 a.m. to 5:30 p.m.; Saturday 6:30 a.m. to 10:30 a.m.; Sunday 7:30 a.m. to 4 p.m.",
    "schedule": {
     "type": "weekly",
@@ -7615,7 +7913,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Pure Barre helps you reach your fitness goals through engaging classes to help you strengthen your mind and body."
+   "description": "Pure Barre helps you reach your fitness goals through engaging classes to help you strengthen your mind and body.",
+   "address": "154 5th St SW, Rochester MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "qdoba-mexican-eats",
@@ -7626,8 +7926,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Fast casual",
-   "lat": 44.023423,
-   "lng": -92.465514,
+   "lat": 44.023324,
+   "lng": -92.46558,
    "hoursText": "Monday - Friday 8 a.m. to 9 p.m.; Saturday - Sunday 10:30 a.m. to 9 p.m.",
    "schedule": {
     "type": "weekly",
@@ -7676,7 +7976,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Qdoba Mexican Eatsis a fast-casual Mexican restaurant serving customizable bowls, burritos, tacos, salads crafted with fresh ingredients."
+   "description": "Qdoba Mexican Eatsis a fast-casual Mexican restaurant serving customizable bowls, burritos, tacos, salads crafted with fresh ingredients.",
+   "address": "180 Center St W, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "redwood-room",
@@ -7687,8 +7989,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Restaurant",
-   "lat": 44.026457,
-   "lng": -92.46441,
+   "lat": 44.026496,
+   "lng": -92.464058,
    "hoursText": "Tuesday - Saturday 5 p.m. to 10 p.m.; Closed Monday, Sunday",
    "schedule": {
     "type": "weekly",
@@ -7725,7 +8027,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "The Redwood Room is a cozy restaurant serving new American cuisine with global influences. It's ambiance makes it ideal for any dining occasion."
+   "description": "The Redwood Room is a cozy restaurant serving new American cuisine with global influences. It's ambiance makes it ideal for any dining occasion.",
+   "address": "300 1st Ave NW, Rochester MN 55901",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "restovich-braun-and-associates",
@@ -7736,8 +8040,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Engineering and surveying",
-   "lat": 44.023527,
-   "lng": -92.461255,
+   "lat": 44.023614,
+   "lng": -92.460709,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -7774,7 +8078,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Restovich Braun and Associates provides legal services related to personal injury, family law, criminal defense, employment law, estate planning, business law, administrative law, appeals and nursing license defense."
+   "description": "Restovich Braun and Associates provides legal services related to personal injury, family law, criminal defense, employment law, estate planning, business law, administrative law, appeals and nursing license defense.",
+   "address": "117 E Center St., Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rochester-art-center",
@@ -7785,8 +8091,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Arts, culture and entertainment",
    "subcategory": "Art museum",
-   "lat": 44.022406,
-   "lng": -92.46005,
+   "lat": 44.022477,
+   "lng": -92.459381,
    "hoursText": "Monday 6 p.m. to 8 p.m.; Wednesday - Sunday 11 a.m. to 4 p.m.; Closed Tuesday",
    "schedule": {
     "type": "weekly",
@@ -7829,7 +8135,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Rochester Art Center is a contemporary art museum featuring rotating exhibitions from local, regional, national, and international artists along with creative programs and community events."
+   "description": "Rochester Art Center is a contemporary art museum featuring rotating exhibitions from local, regional, national, and international artists along with creative programs and community events.",
+   "address": "30 Civic Center Drive SE, Rochester, M 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rochester-civic-theatre",
@@ -7840,8 +8148,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Arts, culture and entertainment",
    "subcategory": "Theater",
-   "lat": 44.022406,
-   "lng": -92.46005,
+   "lat": 44.022477,
+   "lng": -92.459381,
    "hoursText": "Wednesday - Friday noon to 2 p.m.; Closed Monday - Tuesday, Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -7866,7 +8174,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Rochester Civic Theatre is a downtown performing arts venue bringing the Rochester community together through live theatre, musicals, comedy, music, dance, education, and local performance opportunities."
+   "description": "Rochester Civic Theatre is a downtown performing arts venue bringing the Rochester community together through live theatre, musicals, comedy, music, dance, education, and local performance opportunities.",
+   "address": "30 Civic Center Drive SE, Rochester, M 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rochester-framing-and-fine-art-printing",
@@ -7877,9 +8187,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Framing and printing",
-   "lat": 44.019232,
-   "lng": -92.462881,
-   "description": "Rochester Framing & Fine Art Printing uses traditional techniques and industry standards to provide quality printing and framing. Their design team includes artists, photographers, graphic designers, engineers, and business professionals."
+   "lat": 44.01917,
+   "lng": -92.46267,
+   "description": "Rochester Framing & Fine Art Printing uses traditional techniques and industry standards to provide quality printing and framing. Their design team includes artists, photographers, graphic designers, engineers, and business professionals.",
+   "address": "400 S Broadway Ave, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rochester-home-infusion",
@@ -7890,8 +8202,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Home infusion",
-   "lat": 44.021293,
-   "lng": -92.464583,
+   "lat": 44.020932,
+   "lng": -92.464712,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -7928,7 +8240,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Rochester home infusion is a specialty home and alternate-site infusion provider with 24/7 pharmacy and nursing services."
+   "description": "Rochester home infusion is a specialty home and alternate-site infusion provider with 24/7 pharmacy and nursing services.",
+   "address": "221 1st Ave SW, #105, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rochester-marriott-mayo-clinic-area",
@@ -7939,9 +8253,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Hotel",
-   "lat": 44.022605,
-   "lng": -92.464575,
-   "description": "Rochester Marriott Mayo Clinic Area is an upscale downtown hotel offering modern accommodations, on-site dining and event spaces, with convenient climate-controlled subway and skyway access to Mayo Clinic and nearby attractions."
+   "lat": 44.022253,
+   "lng": -92.464675,
+   "description": "Rochester Marriott Mayo Clinic Area is an upscale downtown hotel offering modern accommodations, on-site dining and event spaces, with convenient climate-controlled subway and skyway access to Mayo Clinic and nearby attractions.",
+   "address": "101 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rochester-public-library",
@@ -7952,8 +8268,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Community and nonprofit",
    "subcategory": "Library",
-   "lat": 44.021607,
-   "lng": -92.4615,
+   "lat": 44.021761,
+   "lng": -92.460484,
    "hoursText": "Monday - Thursday 10 a.m. to 8 p.m.; Friday - Sunday 10 a.m. to 6 p.m.",
    "schedule": {
     "type": "weekly",
@@ -8002,7 +8318,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "In addition to books, the Rochester Public Library offers a variety of local events and services and resources to the community."
+   "description": "In addition to books, the Rochester Public Library offers a variety of local events and services and resources to the community.",
+   "address": "101 2nd St SE, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rodney-d-anderson-law-office-llc",
@@ -8013,8 +8331,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Legal",
    "subcategory": "Law firm",
-   "lat": 44.021432,
-   "lng": -92.46294,
+   "lat": 44.021414,
+   "lng": -92.462543,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -8051,7 +8369,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Rodney D. Anderson Law Office, LLC, helps families and individuals navigate the complexities of estate law by crafting personalized plans that address your unique needs."
+   "description": "Rodney D. Anderson Law Office, LLC, helps families and individuals navigate the complexities of estate law by crafting personalized plans that address your unique needs.",
+   "address": "206 S Broadway Ave, Suite 404, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rowan-international-grocery",
@@ -8062,8 +8382,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "International grocery",
-   "lat": 44.024457,
-   "lng": -92.46309,
+   "lat": 44.024562,
+   "lng": -92.463294,
    "hoursText": "Open daily 9 a.m. to 10 p.m.",
    "schedule": {
     "type": "weekly",
@@ -8112,7 +8432,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Rowan International Grocery sells a variety of international food, spices and drinks that align with various dietary restrictions and preferences."
+   "description": "Rowan International Grocery sells a variety of international food, spices and drinks that align with various dietary restrictions and preferences.",
+   "address": "101 N Broadway Ave, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rsm",
@@ -8123,8 +8445,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Accounting and consulting",
-   "lat": 44.020285,
-   "lng": -92.462953,
+   "lat": 44.020108,
+   "lng": -92.462834,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -8161,7 +8483,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "RSM provides growth-oriented, internationally active organizations with tailored, innovative solutions for a complex and changing world."
+   "description": "RSM provides growth-oriented, internationally active organizations with tailored, innovative solutions for a complex and changing world.",
+   "address": "310 S Broadway Ave, Suite 300, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rsp-architects",
@@ -8172,8 +8496,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Architecture",
-   "lat": 44.020179,
-   "lng": -92.462955,
+   "lat": 44.01976,
+   "lng": -92.46282,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -8210,7 +8534,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "RSP Architects provides architectual, master planning, interior design and workplace strategy services."
+   "description": "RSP Architects provides architectual, master planning, interior design and workplace strategy services.",
+   "address": "320 S Broadway Ave, Suite B, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rs-pizza",
@@ -8221,8 +8547,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Pizza",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday - Friday 8 a.m. to 8 p.m.; Saturday 11 a.m. to 3:30 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -8265,7 +8591,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "R’s Pizza is a casual downtown Rochester pizza spot located in the Galleria’s skyway level, offering a convenient place to grab pizza and other Italian-inspired favorites."
+   "description": "R’s Pizza is a casual downtown Rochester pizza spot located in the Galleria’s skyway level, offering a convenient place to grab pizza and other Italian-inspired favorites.",
+   "address": "111 S Broadway, Suite 211, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "saabir-travel-agency",
@@ -8276,8 +8604,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Travel agency",
-   "lat": 44.024457,
-   "lng": -92.46309,
+   "lat": 44.024562,
+   "lng": -92.463294,
    "hoursText": "Monday - Friday 11:30 a.m. to 8 p.m.; Saturday 11 a.m. to 6 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -8320,7 +8648,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Saabir Travel Agency offers travel planning services to help you make the most out of your trip."
+   "description": "Saabir Travel Agency offers travel planning services to help you make the most out of your trip.",
+   "address": "101 N Broadway Ave, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "salad-brothers-cafe-and-deli",
@@ -8331,8 +8661,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Deli",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday - Friday 9 a.m. to 6 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -8369,7 +8699,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Salad Brothers Café and Deli makes healthy soups, breads and salads with fast and friedly service."
+   "description": "Salad Brothers Café and Deli makes healthy soups, breads and salads with fast and friedly service.",
+   "address": "111 S Broadway Ave, Suite 215, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "saladworks",
@@ -8380,8 +8712,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Salads and bowls",
-   "lat": 44.022605,
-   "lng": -92.464575,
+   "lat": 44.022253,
+   "lng": -92.464675,
    "hoursText": "Monday - Friday 10 a.m. to 3 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -8418,7 +8750,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Saladworks is a casual conter service eatery that offers signature wraps, paninis, soups and build your own salads."
+   "description": "Saladworks is a casual conter service eatery that offers signature wraps, paninis, soups and build your own salads.",
+   "address": "101 1st Ave SW, Suite 27, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "schmitt-automotive-repair",
@@ -8429,8 +8763,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Automotive",
    "subcategory": "Auto repair",
-   "lat": 44.024474,
-   "lng": -92.46293,
+   "lat": 44.024592,
+   "lng": -92.462659,
    "hoursText": "Monday - Friday 7:30 a.m. to 5:30 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -8467,7 +8801,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Schmitt Automotive Repair is an independent shop that can help with a range of automotive issues, from basic tune-ups to engine and transmission replacement."
+   "description": "Schmitt Automotive Repair is an independent shop that can help with a range of automotive issues, from basic tune-ups to engine and transmission replacement.",
+   "address": "102 N Broadway Ave, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "semva-art-gallery",
@@ -8478,8 +8814,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Arts, culture and entertainment",
    "subcategory": "Art gallery",
-   "lat": 44.023251,
-   "lng": -92.46574,
+   "lat": 44.022954,
+   "lng": -92.4657,
    "hoursText": "Monday 10 a.m. to 5 p.m.; Tuesday - Friday 10 a.m. to 8 p.m.; Saturday 10 a.m. to 5 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -8522,7 +8858,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "SEMVA art gallery is where passion meets fine art. They are a nonprofit cooperative dedicated to showcasing and supporting local artists."
+   "description": "SEMVA art gallery is where passion meets fine art. They are a nonprofit cooperative dedicated to showcasing and supporting local artists.",
+   "address": "20 2nd Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "soma",
@@ -8533,8 +8871,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Women's clothing",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday - Friday 10 a.m. to 7 p.m.; Saturday 10 a.m. to 5 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -8577,7 +8915,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Soma in is a women’s apparel boutique specializing in comfortable, stylish lingerie, bras, sleepwear, and loungewear with an emphasis on fit and everyday confidence."
+   "description": "Soma in is a women’s apparel boutique specializing in comfortable, stylish lingerie, bras, sleepwear, and loungewear with an emphasis on fit and everyday confidence.",
+   "address": "111 S Broadway Ave, Suite 104, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "stifel-nicolaus-financial",
@@ -8588,8 +8928,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Investments",
-   "lat": 44.022446,
-   "lng": -92.462939,
+   "lat": 44.022356,
+   "lng": -92.462564,
    "hoursText": "Monday - Friday 8:30 a.m. to 4 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -8626,7 +8966,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Stifel Nicolaus Financial works to understand your unique financial objectives so they can develop a strategy specific to your long term financial goals."
+   "description": "Stifel Nicolaus Financial works to understand your unique financial objectives so they can develop a strategy specific to your long term financial goals.",
+   "address": "102 S Broadway Ave, Suite 106, Rochester MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "suk-law-firm",
@@ -8637,8 +8979,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Legal",
    "subcategory": "Law firm",
-   "lat": 44.023527,
-   "lng": -92.462905,
+   "lat": 44.02361,
+   "lng": -92.462611,
    "hoursText": "Monday - Thursday 8:30 a.m. to 5 p.m.; Closed Friday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -8669,7 +9011,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Suk Law Firm represents serious injury cases, wrongful death, auto accidents, car wrecks, trucking accidents and other types of injuries."
+   "description": "Suk Law Firm represents serious injury cases, wrongful death, auto accidents, car wrecks, trucking accidents and other types of injuries.",
+   "address": "5 E Center St, Suite 200, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "talbots",
@@ -8680,8 +9024,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Women's clothing",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Monday - Friday 10 a.m. to 7 p.m.; Saturday 10 a.m. to 5:30 p.m.; Sunday noon to 5 p.m.",
    "schedule": {
     "type": "weekly",
@@ -8730,7 +9074,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Talbots is a women's apparel chain offering workwear, dresses, casual clothes, shoes and accessories in classic styles."
+   "description": "Talbots is a women's apparel chain offering workwear, dresses, casual clothes, shoes and accessories in classic styles.",
+   "address": "111 S Broadway Ave, Suite 106, Rochester, MN 5504",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "tea-time",
@@ -8741,8 +9087,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Tea shop",
-   "lat": 44.023251,
-   "lng": -92.46574,
+   "lat": 44.022954,
+   "lng": -92.4657,
    "hoursText": "Monday - Saturday 11 a.m. to 7 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -8785,7 +9131,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Tea Time bubble tea blends traditional recipes with exciting modern twists. They offer a variety of refreshing options to enjoy."
+   "description": "Tea Time bubble tea blends traditional recipes with exciting modern twists. They offer a variety of refreshing options to enjoy.",
+   "address": "20 2nd Ave SW, Suite 7, Rochester MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "terza-ristorante",
@@ -8796,13 +9144,15 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Italian restaurant",
-   "lat": 44.020389,
-   "lng": -92.462721,
+   "lat": 44.020327,
+   "lng": -92.462588,
    "hoursText": "Sunday- Thursday 3pm – 9pm\nBar open until 10pm\nFriday & Saturday 3pm-10pm",
    "schedule": {
     "type": "varies"
    },
-   "description": "Terza Ristorante celebrates the flavors of Italy while being committed to using sustainable, responsible ingredients."
+   "description": "Terza Ristorante celebrates the flavors of Italy while being committed to using sustainable, responsible ingredients.",
+   "address": "30 3rd Street SE, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "tessas-office-wine-and-spirit-boutique",
@@ -8813,8 +9163,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Wine bar",
-   "lat": 44.020394,
-   "lng": -92.463883,
+   "lat": 44.020323,
+   "lng": -92.463378,
    "hoursText": "Monday - Saturday noon to 8 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -8857,7 +9207,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Tessa’s Office Wine & Spirits Boutique is a welcoming local shop offering a thoughtfully curated selection of wines, spirits, and unique bottles for every taste and occasion."
+   "description": "Tessa’s Office Wine & Spirits Boutique is a welcoming local shop offering a thoughtfully curated selection of wines, spirits, and unique bottles for every taste and occasion.",
+   "address": "4 3rd St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "thai-garden",
@@ -8869,8 +9221,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Thai restaurant",
    "description": "Thai Garden provides delicious, authentic Thai food at your convenience. Select from the assortment of ready to serve meals and dine in at the court .",
-   "lat": 44.022391,
-   "lng": -92.464418,
+   "lat": 44.022328,
+   "lng": -92.464126,
    "hoursText": "Mon - Fri : 11am-2pm",
    "schedule": {
     "type": "weekly",
@@ -8906,7 +9258,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "100 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "thaipop",
@@ -8918,12 +9272,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Thai restaurant",
    "description": "ThaiPop started as a pop-up restaurant. It has changed in scale and scope, location and menu, but has always been an expression of Annie’s passion for cooking and community.",
-   "lat": 44.020394,
-   "lng": -92.463883,
+   "lat": 44.020323,
+   "lng": -92.463378,
    "hoursText": "Monday—4-9\nTuesday—11-9\nWednesday—11-9\nThursday—11-9\nFriday—11-10\nSaturday—11-10\nSunday—closed",
    "schedule": {
     "type": "varies"
-   }
+   },
+   "address": "4 3rd St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "the-blackridge-group-at-morgan-stanley",
@@ -8934,9 +9290,11 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Investments",
-   "lat": 44.021493,
-   "lng": -92.463266,
-   "description": "The BlackRidge Group is a wealth management team providing personalized financial planning, investment management, retirement, business succession, and legacy strategies for individuals, families, and business owners."
+   "lat": 44.021443,
+   "lng": -92.463509,
+   "description": "The BlackRidge Group is a wealth management team providing personalized financial planning, investment management, retirement, business succession, and legacy strategies for individuals, families, and business owners.",
+   "address": "14 2nd St SW, #201, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "the-castle",
@@ -8948,8 +9306,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Arts, culture and entertainment",
    "subcategory": "Event and arts venue",
    "description": "The Castle  is a beautifully restored historic downtown landmark featuring event spaces, fine dining, and a wine and whiskey lounge in a distinctive setting filled with local history and character.",
-   "lat": 44.024626,
-   "lng": -92.46309,
+   "lat": 44.025143,
+   "lng": -92.463283,
    "hoursText": "Monday - Thursday 4 p.m. to 9 p.m.; Friday - Saturday 4 p.m. to 10 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -8991,7 +9349,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "121 North Broadway, Rochester, MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "the-machine-shed",
@@ -9003,8 +9363,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Bar",
    "description": "The Machine Shed  is a retro gaming destination featuring classic arcade games, vintage and modern video games and consoles, and repair services for gaming systems and accessories.",
-   "lat": 44.025407,
-   "lng": -92.462412,
+   "lat": 44.025468,
+   "lng": -92.46216,
    "hoursText": "Noon till 8pm, 7 days a week",
    "schedule": {
     "type": "weekly",
@@ -9052,7 +9412,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "11 2nd St NE, Rochester MN 55906",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "the-nordic-shop",
@@ -9064,12 +9426,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Gift shop",
    "description": "The Nordic Shop is a charming Scandinavian specialty store offering authentic Nordic clothing, Norwegian sweaters, jewelry, home goods, gifts, and distinctive Scandinavian brands.",
-   "lat": 44.022375,
-   "lng": -92.463097,
+   "lat": 44.022397,
+   "lng": -92.463487,
    "hoursText": "Mon ~ Fri: 10:00-7:00 CT\nSaturday: 10:00-4:00 CT\nSunday: Closed",
    "schedule": {
     "type": "varies"
-   }
+   },
+   "address": "111 S Broadway Ave, Suite 202, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "the-tap-house",
@@ -9081,8 +9445,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Bar",
    "description": "The Tap House is a bar known for its wide selection of seasonal and specialty release beers on rotation, handcrafted burgers, street tacos, appatizers and other tasty foods.",
-   "lat": 44.020394,
-   "lng": -92.463917,
+   "lat": 44.020323,
+   "lng": -92.463603,
    "hoursText": "Monday - Thursday 2 p.m. to 11 p.m.; Friday - Saturday 2 p.m. to midnight; Sunday 2 p.m. to 11 p.m.",
    "schedule": {
     "type": "weekly",
@@ -9130,7 +9494,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "10 3rd St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "the-towers-at-the-kahler-grand",
@@ -9141,13 +9507,15 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Hotel",
-   "lat": 44.023251,
-   "lng": -92.46574,
+   "lat": 44.022954,
+   "lng": -92.4657,
    "hoursText": "Open 24 hours",
    "schedule": {
     "type": "always"
    },
-   "description": "The Towers at the Kahler Grand offers an upscale hotel experience with elegant rooms and suites, personalized concierge service, an exclusive lounge, and convenient underground access to Mayo Clinic."
+   "description": "The Towers at the Kahler Grand offers an upscale hotel experience with elegant rooms and suites, personalized concierge service, an exclusive lounge, and convenient underground access to Mayo Clinic.",
+   "address": "20 2nd Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "think-bank",
@@ -9158,8 +9526,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Bank",
-   "lat": 44.021293,
-   "lng": -92.464583,
+   "lat": 44.020932,
+   "lng": -92.464712,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -9196,7 +9564,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Think Bank is a customer-owned community bank offering personal and business checking, savings, loans, digital banking, and personalized financial guidance."
+   "description": "Think Bank is a customer-owned community bank offering personal and business checking, savings, loans, digital banking, and personalized financial guidance.",
+   "address": "221 1st Ave SW, Suite 101, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "threshold-arts",
@@ -9207,8 +9577,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Arts, culture and entertainment",
    "subcategory": "Arts organization",
-   "lat": 44.020287,
-   "lng": -92.463112,
+   "lat": 44.020002,
+   "lng": -92.463286,
    "hoursText": "Wednesday 11 a.m. to 3 p.m.; Thursday noon to 8 p.m.; Friday - Saturday 10 a.m. to 6 p.m.; Sunday 11 a.m. to 3 p.m.; Closed Monday - Tuesday",
    "schedule": {
     "type": "weekly",
@@ -9245,7 +9615,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Threshold Arts is dedicated to elevating artists and providing enriching art experiences. Their store features a selection of art and handmade items from more than fifty local vendors."
+   "description": "Threshold Arts is dedicated to elevating artists and providing enriching art experiences. Their store features a selection of art and handmade items from more than fifty local vendors.",
+   "address": "311 Broadway Ave S, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "title-services-inc",
@@ -9256,8 +9628,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Title services",
-   "lat": 44.020389,
-   "lng": -92.462721,
+   "lat": 44.020327,
+   "lng": -92.462588,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -9294,7 +9666,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Title Services, Inc. is a provider of commerical real estate title and closing services to help businesses, developers, and financial institutions navigate complex real estate transactions."
+   "description": "Title Services, Inc. is a provider of commerical real estate title and closing services to help businesses, developers, and financial institutions navigate complex real estate transactions.",
+   "address": "30 3rd Street SE, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "townsquare-media",
@@ -9305,8 +9679,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Media",
-   "lat": 44.019223,
-   "lng": -92.464873,
+   "lat": 44.019051,
+   "lng": -92.465594,
    "hoursText": "Monday - Friday 9 a.m. to 4 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -9343,7 +9717,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Townsquare Media provides customized, cross-platform, customer-oriented marketing and adverstising solutions."
+   "description": "Townsquare Media provides customized, cross-platform, customer-oriented marketing and adverstising solutions.",
+   "address": "122 4th St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "treedome-productions",
@@ -9354,8 +9730,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Media production",
-   "lat": 44.020308,
-   "lng": -92.463112,
+   "lat": 44.020063,
+   "lng": -92.463286,
    "hoursText": "Tuesday - Saturday 11 a.m. to 7 p.m.; Sunday 11 a.m. to 6 p.m.; Closed Monday",
    "schedule": {
     "type": "weekly",
@@ -9398,7 +9774,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Treedome brings together traditional music and street culture with the local music scene, and bespoke pieces."
+   "description": "Treedome brings together traditional music and street culture with the local music scene, and bespoke pieces.",
+   "address": "309 Broadway Ave S, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "university-of-minnesota-bookstores-rochester",
@@ -9409,8 +9787,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Bookstore",
-   "lat": 44.022027,
-   "lng": -92.462934,
+   "lat": 44.02199,
+   "lng": -92.462565,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -9447,7 +9825,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "The University of Minnesota Bookstore offers the region's largest selection of University of Minnesota fashions, gifts, and collectibles for U of M family and friends."
+   "description": "The University of Minnesota Bookstore offers the region's largest selection of University of Minnesota fashions, gifts, and collectibles for U of M family and friends.",
+   "address": "150 S Broadway, 200, Rochester, MN 55904",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "u-s-bank-4th-street-office",
@@ -9458,8 +9838,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Bank",
-   "lat": 44.019203,
-   "lng": -92.46443,
+   "lat": 44.019026,
+   "lng": -92.464297,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Saturday 9 a.m. to noon; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -9502,7 +9882,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "U.S. Bank offers convenient personal and business banking services, including checking and savings accounts, loans and mortgages, financial guidance, and online and mobile banking."
+   "description": "U.S. Bank offers convenient personal and business banking services, including checking and savings accounts, loans and mortgages, financial guidance, and online and mobile banking.",
+   "address": "402 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "victorias-ristorante-and-wine-bar",
@@ -9514,8 +9896,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Italian restaurant",
    "description": "Victoria's Ristorante and Wine Bar makes all of their sauces in-house, as well as their pizza, desserts, and a few pastas.  They have an extensive selection of nice wine to choose from for your meal.",
-   "lat": 44.023374,
-   "lng": -92.46457,
+   "lat": 44.023105,
+   "lng": -92.464727,
    "hoursText": "Monday - Saturday, 10:30 am - 9:00 pm\n\nSunday, 3:00 pm - 9:00pm",
    "schedule": {
     "type": "weekly",
@@ -9563,7 +9945,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "7 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "wabi-sabi-express",
@@ -9574,8 +9958,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Asian restaurant",
-   "lat": 44.022391,
-   "lng": -92.464418,
+   "lat": 44.022328,
+   "lng": -92.464126,
    "hoursText": "Monday - Thursday 10:30 a.m. to 5 p.m.; Friday 10:30 a.m. to 3:30 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -9612,7 +9996,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Wabi Sabi Express has a tasty menu featuring Japanese poke, rice bowls, ramen, sushi and bubble tea."
+   "description": "Wabi Sabi Express has a tasty menu featuring Japanese poke, rice bowls, ramen, sushi and bubble tea.",
+   "address": "100 1st Ave SW, Suite 208, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "wells-fargo",
@@ -9623,8 +10009,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Bank",
-   "lat": 44.022516,
-   "lng": -92.464121,
+   "lat": 44.022676,
+   "lng": -92.464268,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -9661,7 +10047,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Wells Fargo offers personal and business banking services, including checking and savings accounts, credit cards, loans, mortgages, investments, and convenient digital banking."
+   "description": "Wells Fargo offers personal and business banking services, including checking and savings accounts, credit cards, loans, mortgages, investments, and convenient digital banking.",
+   "address": "21 1st St SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "wendland-and-utz-law-firm",
@@ -9672,8 +10060,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Legal",
    "subcategory": "Law firm",
-   "lat": 44.022516,
-   "lng": -92.464121,
+   "lat": 44.022676,
+   "lng": -92.464268,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -9710,7 +10098,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Wendland and Utz Law Firm specializes in personal injury, workers compensation, medical malpractice and wrongful death law."
+   "description": "Wendland and Utz Law Firm specializes in personal injury, workers compensation, medical malpractice and wrongful death law.",
+   "address": "21 1st St SW, #300, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "yanowitz-law",
@@ -9721,8 +10111,8 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Legal",
    "subcategory": "Law firm",
-   "lat": 44.020395,
-   "lng": -92.463963,
+   "lat": 44.02031,
+   "lng": -92.463937,
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -9759,7 +10149,9 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "description": "Yanowitz Law provides legal services for wills & trusts, probate & estate administration, fixed price probate, real estate, special needs planning, business law, and guardianship & conservatorship."
+   "description": "Yanowitz Law provides legal services for wills & trusts, probate & estate administration, fixed price probate, real estate, special needs planning, business law, and guardianship & conservatorship.",
+   "address": "18 3rd St SW, Suite 200, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "507-social",
@@ -9771,8 +10163,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Bar",
    "description": "507 Social is an indoor entertainment venue featuring tactical laser tag, mini golf, interactive darts, and group-friendly activities for parties, date nights, and fun outings.",
-   "lat": 44.021494,
-   "lng": -92.490413,
+   "lat": 44.021338,
+   "lng": -92.489778,
    "hoursText": "Tuesday - Thursday 5 p.m. to 9 p.m.; Friday noon to 9 p.m.; Saturday 10 a.m. to 9 p.m.; Sunday 10 a.m. to 6 p.m.; Closed Monday",
    "schedule": {
     "type": "weekly",
@@ -9814,7 +10206,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1802 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "adara-home-health",
@@ -9826,8 +10220,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Home health",
    "description": "Adara Home Health provides compassionate, personalized in-home care including skilled nursing, therapy, home health aide, homemaking, and pediatric services to help clients live safely and comfortably at home.",
-   "lat": 44.021262,
-   "lng": -92.493803,
+   "lat": 44.021046,
+   "lng": -92.49327,
    "hoursText": "Monday - Friday 8:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -9863,7 +10257,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "230 20th Avenue SW, Suite 101, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "ageless-esthetics-medspa",
@@ -9875,8 +10271,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Medspa",
    "description": "Ageless Esthetics Medspa is a medical aesthetics and skincare destination offering personalized treatments such as injectables, laser services, microneedling, chemical peels, body contouring, and medical-grade skincare.",
-   "lat": 44.021568,
-   "lng": -92.497065,
+   "lat": 44.021398,
+   "lng": -92.496781,
    "hoursText": "Mon 10 AM-3 PM; Tue 9 AM-5 PM; Wed 9 AM-7 PM; Thu 10 AM-7 PM; Fri 10 AM-5 PM; Sat 9 AM-1:30 PM; Sun closed.",
    "schedule": {
     "type": "weekly",
@@ -9918,7 +10314,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2150 2nd Street SW Unit 120, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "all-around-accounting-inc",
@@ -9930,8 +10328,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Accounting",
    "description": "Accounting firm offering tax preparation, bookkeeping, payroll and business accounting.",
-   "lat": 44.021657,
-   "lng": -92.49396,
+   "lat": 44.021863,
+   "lng": -92.494148,
    "hoursText": "Mon-Fri 8 AM-4 PM.",
    "schedule": {
     "type": "weekly",
@@ -9967,7 +10365,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2001 2nd Street SW, Suite 100, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "allstate-insurance",
@@ -9979,12 +10379,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Insurance",
    "description": "Allstate Insurance is a national insurance provider offering coverage such as auto, home, renters, motorcycle, and life insurance, along with personalized options to help protect individuals and families.",
-   "lat": 44.021543,
-   "lng": -92.490645,
+   "lat": 44.021116,
+   "lng": -92.490944,
    "hoursText": "M-F 8-5 (Previously reported; confirm current hours and days.)",
    "schedule": {
     "type": "varies"
-   }
+   },
+   "address": "1812 2nd Street SW Ste C, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "altra-federal-credit-union",
@@ -9996,12 +10398,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Credit union",
    "description": "Altra Federal Credit Union is a member-owned, not-for-profit financial cooperative offering personal and business banking, loans, mortgages, financial advising, and convenient member services.",
-   "lat": 44.022335,
-   "lng": -92.486016,
+   "lat": 44.022433,
+   "lng": -92.486371,
    "hoursText": "9-5:30 (Previously reported; confirm current hours and days.)",
    "schedule": {
     "type": "varies"
-   }
+   },
+   "address": "123 16th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "amy-swain-hearing-centers",
@@ -10013,8 +10417,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Hearing care",
    "description": "Amy Swain Hearing Centers provides personalized hearing care, including hearing evaluations, hearing aid consultations and fittings, earwax removal, and other audiology services tailored to each patient’s needs.",
-   "lat": 44.021568,
-   "lng": -92.497065,
+   "lat": 44.021398,
+   "lng": -92.496781,
    "hoursText": "Mon-Thu 8:30 AM-5 PM; Fri 8:30 AM-noon.",
    "schedule": {
     "type": "weekly",
@@ -10050,7 +10454,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2150 2nd Street SW, Suite 130, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "arrowhealth-medical-supply",
@@ -10062,8 +10468,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Medical supply",
    "description": "Arrowhealth Medical Supply provides home medical equipment and supplies to help patients manage their care comfortably at home.",
-   "lat": 44.021262,
-   "lng": -92.493803,
+   "lat": 44.021046,
+   "lng": -92.49327,
    "hoursText": "Monday - Friday 9 a.m. to noon and 1 p.m. to 4 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -10119,7 +10525,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "230 20th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "asian-style-massage",
@@ -10131,8 +10539,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Massage",
    "description": "Asian Style Massage LLC is a massage spa offering personalized relaxation and therapeutic bodywork, including full-body, couples, deep-tissue, oil, and futon massage services designed to ease stress and muscle tension.",
-   "lat": 44.021543,
-   "lng": -92.492307,
+   "lat": 44.021411,
+   "lng": -92.492423,
    "hoursText": "Open daily 8 a.m. to 10 p.m.",
    "schedule": {
     "type": "weekly",
@@ -10180,7 +10588,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1906 2nd Street sw, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "aspen-select",
@@ -10192,12 +10602,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Hotel",
    "description": "Aspen Select Hotel is a comfortable, affordable hotel directly across from Mayo Clinic’s Saint Marys Campus, offering complimentary breakfast, parking, Wi-Fi, fitness facilities, and free shuttle service to Mayo Clinic locations.",
-   "lat": 44.021687,
-   "lng": -92.481634,
+   "lat": 44.021747,
+   "lng": -92.482068,
    "hoursText": "Open 24 hours",
    "schedule": {
     "type": "always"
-   }
+   },
+   "address": "1215 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "barnes-massage-therapy",
@@ -10209,8 +10621,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Massage",
    "description": "Barnes Massage Therapy offers customized therapeutic masagges with a focus on relaxation, pain relief, and helping clients maintain natural body balance.",
-   "lat": 44.021543,
-   "lng": -92.490645,
+   "lat": 44.021116,
+   "lng": -92.490944,
    "hoursText": "Mon noon-7 PM; Tue closed; Wed 10 AM-3 PM; Thu noon-7 PM; Fri 10 AM-3 PM; Sat 10 AM-4 PM; Sun closed. (Source listing; confirm with business.)",
    "schedule": {
     "type": "weekly",
@@ -10246,7 +10658,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1812 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "beetles-bar-and-grill",
@@ -10258,8 +10672,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Bar and grill",
    "description": "Beetle’s Bar & Grill is a family-friendly sports bar serving burgers, broasted chicken, wraps, steaks, and cold drinks.",
-   "lat": 44.021262,
-   "lng": -92.493803,
+   "lat": 44.021046,
+   "lng": -92.49327,
    "hoursText": "Sun-Thu 11 AM-midnight; Fri-Sat 11 AM-1 AM. Kitchen: Sun-Wed 11 AM-10 PM; Thu-Sat 11 AM-11 PM.",
    "schedule": {
     "type": "weekly",
@@ -10383,7 +10797,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "230 20th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "aqui",
@@ -10395,8 +10811,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Restaurant",
    "description": "Café Aquí is a cozy coffee shop inside Sargent’s on 2nd offering espresso drinks, house-made baked goods, ice cream.",
-   "lat": 44.021657,
-   "lng": -92.49073,
+   "lat": 44.021916,
+   "lng": -92.490929,
    "hoursText": "Mon-Fri 8 AM-7 PM; Sat 8 AM-5 PM; Sun 9 AM-5 PM.",
    "schedule": {
     "type": "weekly",
@@ -10444,7 +10860,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1811 2nd Street SW Suite B, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "cafe-steam-saint-marys",
@@ -10456,8 +10874,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Coffee shop",
    "description": "Cafe Steam at Saint Marys is a welcoming coffee spot serving quality coffee, espresso drinks, and refreshments in a convenient location near the Saint Marys medical campus.",
-   "lat": 44.021693,
-   "lng": -92.479959,
+   "lat": 44.021795,
+   "lng": -92.480926,
    "hoursText": "6:30 am - 7 pm (Previously reported; confirm current hours and days.)",
    "schedule": {
     "type": "weekly",
@@ -10505,7 +10923,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1147 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "central-bark",
@@ -10517,12 +10937,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Pet care",
    "description": "Central Bark provides a fun and caring environment for dogs with services designed to support their exercise, socialization, and overall well-being.",
-   "lat": 44.021502,
-   "lng": -92.488903,
+   "lat": 44.021352,
+   "lng": -92.489368,
    "hoursText": "Mon-Fri 6:30 AM-6:30 PM; Sat 8 AM-5 PM; Sun by appointment.",
    "schedule": {
     "type": "varies"
-   }
+   },
+   "address": "1720 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "chabad-of-southern-minnesota",
@@ -10534,8 +10956,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Community and nonprofit",
    "subcategory": "Place of worship",
    "description": "Chabad of Southern Minnesota is a welcoming Jewish community organization offering religious services, education, holiday celebrations, and programs that foster Jewish life and connection throughout the region.",
-   "lat": 44.021545,
-   "lng": -92.473643,
+   "lat": 44.021363,
+   "lng": -92.47454,
    "hoursText": "Monday - Thursday 8 a.m. to 6 p.m.; Friday 8 a.m. to noon; Saturday 10 a.m. to 2 p.m.; Sunday 8 a.m. to 6 p.m.",
    "schedule": {
     "type": "weekly",
@@ -10583,7 +11005,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "730 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "cherryberry",
@@ -10595,8 +11019,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Frozen yogurt",
    "description": "CherryBerry is a fun, family-friendly frozen yogurt shop offering a variety of flavors and toppings for a sweet treat customized just the way you like it.",
-   "lat": 44.022335,
-   "lng": -92.486016,
+   "lat": 44.022433,
+   "lng": -92.486371,
    "hoursText": "Daily 11 AM-10 PM. (Source listing; confirm with business.)",
    "schedule": {
     "type": "weekly",
@@ -10644,7 +11068,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "123 16th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "circle-k",
@@ -10656,12 +11082,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Convenience store",
    "description": "Circle K is a convenient stop for fuel, snacks, drinks, coffee, and everyday essentials while you’re on the go.",
-   "lat": 44.021577,
-   "lng": -92.486015,
+   "lat": 44.021338,
+   "lng": -92.486353,
    "hoursText": "Open 24 hours",
    "schedule": {
     "type": "always"
-   }
+   },
+   "address": "1520 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "clayton-thomas-blinds-of-rochester",
@@ -10673,12 +11101,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Window coverings",
    "description": "Clayton Thomas Blinds offers customized window treatments designed to add privacy, comfort, and a polished look to homes and businesses.",
-   "lat": 44.021262,
-   "lng": -92.493803,
+   "lat": 44.021046,
+   "lng": -92.49327,
    "hoursText": "Hours not confirmed; contact business.",
    "schedule": {
     "type": "varies"
-   }
+   },
+   "address": "230 20th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "construction-collaborative",
@@ -10690,8 +11120,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Construction",
    "description": "Construction Collaborative provides professional construction and project services with a team-focused approach to creating functional, high-quality spaces for clients.",
-   "lat": 44.021503,
-   "lng": -92.488693
+   "lat": 44.021383,
+   "lng": -92.489004,
+   "address": "1708 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "joe-larson-country-financial-representative",
@@ -10703,8 +11135,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Insurance",
    "description": "COUNTRY Financial provides personalized insurance, investment, and financial planning services to help individuals and families protect what matters and plan for the future.",
-   "lat": 44.021657,
-   "lng": -92.49396,
+   "lat": 44.021863,
+   "lng": -92.494148,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -10740,7 +11172,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2001 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "joy-edge-country-financial-rep",
@@ -10752,8 +11186,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Insurance",
    "description": "COUNTRY Financial provides personalized insurance, investment, and financial planning services to help individuals and families protect what matters and plan for the future.",
-   "lat": 44.021657,
-   "lng": -92.49396,
+   "lat": 44.021863,
+   "lng": -92.494148,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -10789,7 +11223,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2001 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "mitchell-leistikow-country-financial-representative",
@@ -10801,8 +11237,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Insurance",
    "description": "COUNTRY Financial provides personalized insurance, investment, and financial planning services to help individuals and families protect what matters and plan for the future.",
-   "lat": 44.021657,
-   "lng": -92.49396,
+   "lat": 44.021863,
+   "lng": -92.494148,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -10838,7 +11274,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2001 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "ryan-ford-country-financial-representative",
@@ -10850,8 +11288,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Insurance",
    "description": "COUNTRY Financial provides personalized insurance, investment, and financial planning services to help individuals and families protect what matters and plan for the future.",
-   "lat": 44.021657,
-   "lng": -92.49396,
+   "lat": 44.021863,
+   "lng": -92.494148,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -10887,7 +11325,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2001 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "country-financial",
@@ -10899,8 +11339,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Insurance",
    "description": "COUNTRY Financial provides personalized insurance, investment, and financial planning services to help individuals and families protect what matters and plan for the future.",
-   "lat": 44.021657,
-   "lng": -92.49396,
+   "lat": 44.021863,
+   "lng": -92.494148,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -10936,7 +11376,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2001 2nd Street SW, STE 150, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "courtyard-by-marriott-rochester-mayo-clinic-area-saint-marys",
@@ -10948,8 +11390,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Hotel",
    "description": "Courtyard by Marriott Rochester Mayo Clinic Area/Saint Marys offers comfortable accommodations and convenient amenities in a prime location near Mayo Clinic’s Saint Marys Campus.",
-   "lat": 44.022013,
-   "lng": -92.48347
+   "lat": 44.022054,
+   "lng": -92.483634,
+   "address": "161 13th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "covered-by-faith-short-term-rentals",
@@ -10961,8 +11405,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Short-term rental",
    "description": "Covered by Faith Short-Term Rentals offers comfortable, welcoming temporary accommodations for visitors seeking a convenient home-away-from-home during their stay.",
-   "lat": 44.023567,
-   "lng": -92.483577
+   "lat": 44.023709,
+   "lng": -92.483888,
+   "address": "1307 W Center Street, Rochester, MN 55901",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "crystal-dental-clinic",
@@ -10974,8 +11420,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Dental",
    "description": "Crystal Dental Clinic provides friendly, personalized dental care focused on helping patients maintain healthy, confident smiles.",
-   "lat": 44.021543,
-   "lng": -92.490645,
+   "lat": 44.021116,
+   "lng": -92.490944,
    "hoursText": "Monday 7:00 a.m. to 4:00 p.m.; Tuesday 7:00 a.m. to 6:00 p.m.; Wednesday 7:00 a.m. to 4:00 p.m.; Thursday 9:00 a.m. to 5:00 p.m.; Friday 7:00 a.m. to 2:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -11011,7 +11457,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1812 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "dick-thomsen-state-farm",
@@ -11023,8 +11471,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Insurance",
    "description": "State Farm provides personalized insurance and financial services to help individuals and families protect their homes, vehicles, finances, and future.",
-   "lat": 44.021546,
-   "lng": -92.473738
+   "lat": 44.02144,
+   "lng": -92.474674,
+   "address": "736 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "difiore-law",
@@ -11036,8 +11486,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Legal",
    "subcategory": "Law firm",
    "description": "DiFiore Law provides personalized legal guidance and representation, helping clients navigate their legal needs with confidence and care.",
-   "lat": 44.021543,
-   "lng": -92.49071,
+   "lat": 44.021363,
+   "lng": -92.491598,
    "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -11073,7 +11523,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1816 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "discover-strength-rochester",
@@ -11085,8 +11537,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Fitness",
    "description": "Discover Strength Rochester offers efficient, personalized strength-training workouts led by expert exercise physiologists to help clients get stronger, feel healthier, and make the most of their fitness time.",
-   "lat": 44.02139,
-   "lng": -92.48408,
+   "lat": 44.021098,
+   "lng": -92.484431,
    "hoursText": "Monday - Friday 5:30 a.m. to 8:00 p.m.; Saturday - Sunday 7:30 a.m. to 1:30 p.m.",
    "schedule": {
     "type": "weekly",
@@ -11134,7 +11586,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "217 14th Avenue SW, Suite 110, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "dm-downtown-rochester-communities",
@@ -11146,8 +11600,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Residential",
    "subcategory": "Apartments",
    "description": "DM Downtown Rochester Communities offers convenient, comfortable housing options designed to help residents enjoy connected living near the heart of Rochester, MN.",
-   "lat": 44.021543,
-   "lng": -92.471573
+   "lat": 44.021394,
+   "lng": -92.471879,
+   "address": "610 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "edward-jones-andy-dunn",
@@ -11159,8 +11615,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Investments",
    "description": "Edward Jones provides personalized financial guidance and investment services to help individuals and families plan for retirement, build wealth, and work toward their long-term financial goals.",
-   "lat": 44.021568,
-   "lng": -92.497065,
+   "lat": 44.021398,
+   "lng": -92.496781,
    "hoursText": "Monday - Friday 8:00 a.m. to 4:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -11196,7 +11652,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2150 2nd Street SW, Suite 110, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "engel-and-volkers",
@@ -11208,8 +11666,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Real estate",
    "description": "Engel & Völkers provides professional real estate services with personalized guidance to help clients confidently buy and sell homes.",
-   "lat": 44.021657,
-   "lng": -92.492307,
+   "lat": 44.021874,
+   "lng": -92.492394,
    "hoursText": "Monday - Friday 9:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -11245,7 +11703,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1907 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "enliven-psych-and-health",
@@ -11257,8 +11717,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Mental health",
    "description": "Enliven Psych + Health provides compassionate, personalized mental health and wellness services designed to support each client’s overall well-being.",
-   "lat": 44.021595,
-   "lng": -92.497792,
+   "lat": 44.02144,
+   "lng": -92.497785,
    "hoursText": "Monday - Friday 9:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -11294,7 +11754,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2212 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "farmers-insurance",
@@ -11306,8 +11768,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Insurance",
    "description": "Farmers Insurance offers personalized coverage options for auto, home, life, and business insurance, helping local customers protect what matters most.",
-   "lat": 44.021262,
-   "lng": -92.493803,
+   "lat": 44.021046,
+   "lng": -92.49327,
    "hoursText": "Monday - Friday 8:30 a.m. to 5 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -11343,7 +11805,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "230 20th Avenue SW Suite 103, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "full-circle-financial",
@@ -11355,8 +11819,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Financial planning",
    "description": "Full Circle Financial provides personalized financial guidance and planning services designed to help individuals and families work toward greater financial confidence and long-term goals.",
-   "lat": 44.021595,
-   "lng": -92.489331,
+   "lat": 44.021928,
+   "lng": -92.489682,
    "hoursText": "Monday - Thursday 8 a.m. to 4 p.m.; Friday 8 a.m. to 3 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -11392,7 +11856,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1741 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "gift-of-life-transplant-house",
@@ -11404,8 +11870,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Community and nonprofit",
    "subcategory": "Patient hospitality house",
    "description": "Gift of Life Transplant House provides a welcoming, supportive home-away-from-home for transplant patients and their families while receiving medical care.",
-   "lat": 44.021657,
-   "lng": -92.47301,
+   "lat": 44.021952,
+   "lng": -92.472837,
    "hoursText": "Monday - Thursday 7:30 a.m. to 5:30 p.m.; Friday - Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -11435,7 +11901,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "705 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "grandeville-at-cascade-lake",
@@ -11447,8 +11915,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Residential",
    "subcategory": "Senior living",
    "description": "GrandeVille at Cascade Lake offers comfortable apartment living in a welcoming community with convenient access to shopping, dining, recreation, and everyday essentials.",
-   "lat": 44.023421,
-   "lng": -92.501944,
+   "lat": 44.023213,
+   "lng": -92.501958,
    "hoursText": "Monday 1:00 p.m. to 6:00 p.m.; Tuesday - Thursday 10:00 a.m. to 6:00 p.m.; Friday 10:00am to 5:00 p.m.; Saturday 10:00 a.m. to 4:00 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -11490,7 +11958,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "171 GRANDEVILLE Road SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "gryff-apartments",
@@ -11502,12 +11972,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Residential",
    "subcategory": "Apartments",
    "description": "Gryff Apartments offers comfortable, modern apartment living in a convenient location with easy access to the city’s shopping, dining, and everyday amenities.",
-   "lat": 44.021657,
-   "lng": -92.492762,
+   "lat": 44.021858,
+   "lng": -92.493564,
    "hoursText": "Open daily open 24 hours",
    "schedule": {
     "type": "always"
-   }
+   },
+   "address": "1935 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "hair-artist-salon",
@@ -11519,8 +11991,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Hair salon",
    "description": "Hair Artist Salon offers personalized hair services in a welcoming salon environment, helping clients look and feel their best.",
-   "lat": 44.021543,
-   "lng": -92.492242,
+   "lat": 44.021299,
+   "lng": -92.49231,
    "hoursText": "Monday - Thursday 9 a.m. to 7 p.m.; Friday 9 a.m. to 4 p.m.; Saturday 8 a.m. to 2 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -11562,7 +12034,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1902 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "hanger-clinic",
@@ -11574,8 +12048,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Prosthetics and orthotics",
    "description": "Hanger Clinic provides personalized prosthetic and orthotic care designed to help patients improve mobility, comfort, and independence.",
-   "lat": 44.022809,
-   "lng": -92.49915,
+   "lat": 44.022565,
+   "lng": -92.500072,
    "hoursText": "Mon-Fri 8 AM-5 PM.",
    "schedule": {
     "type": "weekly",
@@ -11611,7 +12085,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "121 23rd Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "helpcare-clinic",
@@ -11623,8 +12099,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Clinic",
    "description": "HELPcare Clinic provides compassionate, accessible healthcare services focused on supporting the health and well-being of individuals and families in the community.",
-   "lat": 44.021568,
-   "lng": -92.497065,
+   "lat": 44.021398,
+   "lng": -92.496781,
    "hoursText": "Monday - Tuesday 8:00 am to 5:00 p.m.; Tuesday 8:00 a.m. to 5:00 p.m.; Wednesday 9:00 a.m. to 5:00 p.m.; Thursday 8:00 a.m. to 11:00 a.m; Friday 8:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -11664,7 +12140,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2150 2nd Street SW, Suite 140, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "highland-townhomes",
@@ -11676,8 +12154,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Residential",
    "subcategory": "Townhomes",
    "description": "Highland Townhomes offers comfortable, community-focused townhome living with convenient access to shopping, dining, schools, and other local amenities.",
-   "lat": 44.021596,
-   "lng": -92.497815
+   "lat": 44.021279,
+   "lng": -92.498079,
+   "address": "2214 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "holiday-inn-express",
@@ -11689,8 +12169,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Hotel",
    "description": "Holiday Inn Express offers a comfortable and convenient stay with modern rooms, friendly service, and easy access to local attractions, dining, and the Mayo Clinic.",
-   "lat": 44.022062,
-   "lng": -92.486013
+   "lat": 44.022122,
+   "lng": -92.487177,
+   "address": "155 16th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "homewood-suites",
@@ -11702,8 +12184,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Hotel",
    "description": "Homewood Suites by Hilton Rochester Mayo Clinic Area/Saint Marys is an extended-stay hotel across from Saint Marys Hospital offering spacious suites with full kitchens, free hot breakfast and Wi-Fi, an indoor pool, and convenient access to Mayo Clinic.",
-   "lat": 44.021983,
-   "lng": -92.483472
+   "lat": 44.022074,
+   "lng": -92.484401,
+   "address": "165 13th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "jersey-jos",
@@ -11715,8 +12199,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Bar and grill",
    "description": "Restaurant serving Philly cheesesteaks, sandwiches and related menu items.",
-   "lat": 44.021789,
-   "lng": -92.486011,
+   "lat": 44.021875,
+   "lng": -92.486291,
    "hoursText": "Mon-Sat 11 AM-9 PM; Sun closed.",
    "schedule": {
     "type": "weekly",
@@ -11758,7 +12242,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "187 16th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "joes-liquor",
@@ -11770,12 +12256,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Liquor store",
    "description": "Joe’s Liquor is a neighborhood liquor store offering a selection of beer, wine, and spirits for a variety of tastes and occasions.",
-   "lat": 44.021543,
-   "lng": -92.49234,
+   "lat": 44.021413,
+   "lng": -92.492614,
    "hoursText": "Monday - Thursday 10:00 a.m. to 8:00 p.m.; Friday - Saturday 10:00 a.m. to 10:00 p.m.; Sunday 11:00 a.m. to 6:00",
    "schedule": {
     "type": "varies"
-   }
+   },
+   "address": "1908 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "kfc",
@@ -11787,8 +12275,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Fast food",
    "description": "KFC is a popular fast-food restaurant best known for its signature fried chicken, chicken sandwiches, tenders, biscuits, and classic homestyle sides.",
-   "lat": 44.021573,
-   "lng": -92.485637,
+   "lat": 44.021439,
+   "lng": -92.485597,
    "hoursText": "Monday - Sunday 10:30 a.m. to 10:00 p.m.",
    "schedule": {
     "type": "weekly",
@@ -11836,7 +12324,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1510 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "kitchen-refresh",
@@ -11848,8 +12338,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Home remodeling",
    "description": "Kitchen Refresh specializes in fast, affordable kitchen updates, including cabinet makeovers, new doors and drawer fronts, countertops, backsplashes, and custom design improvements without requiring a complete remodel.",
-   "lat": 44.021543,
-   "lng": -92.490678,
+   "lat": 44.021271,
+   "lng": -92.491312,
    "hoursText": "Monday - Friday 8:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -11885,7 +12375,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1814 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "kwik-trip",
@@ -11897,8 +12389,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Convenience store",
    "description": "Kwik Trip is a convenient neighborhood gas station and convenience store offering fuel, fresh coffee, hot food, snacks, groceries, and everyday essentials.",
-   "lat": 44.021657,
-   "lng": -92.494631,
+   "lat": 44.022356,
+   "lng": -92.496011,
    "hoursText": "Monday - Sunday 5:00 a.m. to 11:00 p.m.",
    "schedule": {
     "type": "weekly",
@@ -11946,7 +12438,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2109 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "landmark-financial",
@@ -11958,8 +12452,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Financial planning",
    "description": "Landmark Financial Partners is a private wealth advisory practice of Ameriprise Financial Services offering personalized financial planning, investment management, retirement, tax, estate, and wealth-preservation strategies.",
-   "lat": 44.021657,
-   "lng": -92.49396,
+   "lat": 44.021863,
+   "lng": -92.494148,
    "hoursText": "Monday - Thursday 8:30 a.m. to 5:00 p.m.; Friday 8:30 a.m. to 3:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -11995,7 +12489,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2001 2nd Street SW, Ste 115, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "lasata-salon-and-spa",
@@ -12007,8 +12503,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Salon and spa",
    "description": "Lasata Salon & Spa is a full-service beauty and wellness salon offering personalized hair care, skincare, waxing, massage, body treatments, and nail services in a relaxing setting.",
-   "lat": 44.021543,
-   "lng": -92.494135,
+   "lat": 44.021274,
+   "lng": -92.494726,
    "hoursText": "Closed Monday; Tuesday - Wednesday 7:30 a.m. to 8:00 p.m.; Thursday 7:30 a.m. to 6:00 p.m.; Friday 7:30 a.m. to 4:30 p.m.; Saturday 8:00 a.m. to 2:00 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -12044,7 +12540,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2014 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "marias-apartments",
@@ -12056,8 +12554,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Residential",
    "subcategory": "Apartments",
    "description": "The Maria Apartments is a newly remodeled apartment community directly across from Mayo Clinic’s Saint Marys Hospital, offering modern finishes, secured access, on-site laundry, and furnished-unit options.",
-   "lat": 44.021693,
-   "lng": -92.479865
+   "lat": 44.021845,
+   "lng": -92.480729,
+   "address": "1143 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "masonic-lodge",
@@ -12069,8 +12569,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Community and nonprofit",
    "subcategory": "Fraternal organization",
    "description": "Rochester Lodge is a local Masonic fraternity centered on brotherhood, personal growth, charitable service, scholarships, and giving back to the Rochester community.",
-   "lat": 44.021543,
-   "lng": -92.493985,
+   "lat": 44.02139,
+   "lng": -92.494249,
    "hoursText": "Monday 5:00 p.m. to 9:00 p.m.; Closed Tuesday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -12082,7 +12582,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2002 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "mcalisters-deli",
@@ -12094,8 +12596,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Deli",
    "description": "McAlister's Deli serves sandwiches, salads, baked potatoes and beverages, with catering options.",
-   "lat": 44.022335,
-   "lng": -92.486016,
+   "lat": 44.022433,
+   "lng": -92.486371,
    "hoursText": "Monday - Sunday 10:00 a.m. to 9:00 p.m.",
    "schedule": {
     "type": "weekly",
@@ -12143,7 +12645,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "123 16th Avenue SW, Suite 200, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "mcdonalds",
@@ -12155,12 +12659,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Fast food",
    "description": "McDonald’s is a popular fast-food restaurant known for its burgers, fries, chicken, breakfast favorites, and convenient dine-in, drive-thru, and takeout options.",
-   "lat": 44.021687,
-   "lng": -92.485389,
+   "lat": 44.021832,
+   "lng": -92.485544,
    "hoursText": "Open daily open 24 hours",
    "schedule": {
     "type": "always"
-   }
+   },
+   "address": "1505 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "moments-hospice",
@@ -12172,12 +12678,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Hospice",
    "description": "Moments Hospice provides compassionate end-of-life care focused on comfort, dignity, and personalized support for patients and their families.",
-   "lat": 44.021543,
-   "lng": -92.49071,
+   "lat": 44.021363,
+   "lng": -92.491598,
    "hoursText": "Open daily open 24 hours",
    "schedule": {
     "type": "always"
-   }
+   },
+   "address": "1816 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "mp-kaye-homes",
@@ -12189,8 +12697,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Home builder",
    "description": "M.P. Kaye Builders is a custom home builder specializing in personalized new construction, remodeling, additions, and commercial projects with an emphasis on quality craftsmanship and unique design.",
-   "lat": 44.021262,
-   "lng": -92.493803
+   "lat": 44.021046,
+   "lng": -92.49327,
+   "address": "230 20th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "muffler-center",
@@ -12202,8 +12712,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Automotive",
    "subcategory": "Auto repair",
    "description": "The Muffler Center is a locally owned, family-operated auto shop specializing in muffler repairs, replacements, and complete exhaust-system services with same-day service and free estimates.",
-   "lat": 44.021657,
-   "lng": -92.49106,
+   "lat": 44.021918,
+   "lng": -92.491909,
    "hoursText": "Monday - Friday 8:00 a.m. to 5:00 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -12239,7 +12749,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1833 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "nautical-bowls",
@@ -12251,8 +12763,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Acai bowls",
    "description": "Nautical Bowls is a healthy fast-casual restaurant serving fresh, customizable açaí and superfood bowls and smoothies made with plant-based, gluten-free, dairy-free, and soy-free ingredients.",
-   "lat": 44.021262,
-   "lng": -92.493803,
+   "lat": 44.021046,
+   "lng": -92.49327,
    "hoursText": "Daily 8 AM-9 PM.",
    "schedule": {
     "type": "weekly",
@@ -12300,7 +12812,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "230 20th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "nerdin-out",
@@ -12312,8 +12826,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Games and collectibles",
    "description": "Nerdin Out is a fun collectibles shop offering comics, action figures, trading cards, toys, games, and pop-culture treasures for fans and collectors.",
-   "lat": 44.021494,
-   "lng": -92.490413,
+   "lat": 44.021338,
+   "lng": -92.489778,
    "hoursText": "Monday - Tuesday 10:00 a.m. to 7:00 p.m.; Wednesday 10:00 a.m. to 9:00 p.m.; Thursday 10:00 a.m. to 7:00 p.m.; Friday 10:00 a.m. to 9:00 p.m.; Saturday 10:00 a.m. to 9:00 p.m.; Sunday 10:00 a.m. to 6:00 p.m.",
    "schedule": {
     "type": "weekly",
@@ -12361,7 +12875,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1802 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "nietz-tax-and-accounting",
@@ -12373,8 +12889,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Tax and accounting",
    "description": "Nietz Tax & Accounting LLC is a local accounting firm providing tax preparation, bookkeeping, and accounting services for individuals and businesses",
-   "lat": 44.021543,
-   "lng": -92.494211,
+   "lat": 44.021284,
+   "lng": -92.495002,
    "hoursText": "Monday - Friday 8:00 a.m. to 4:30 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -12410,7 +12926,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2020 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "northwestern-mutual",
@@ -12422,8 +12940,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Financial planning",
    "description": "Northwestern Mutual provides personalized financial planning, investment and wealth-management strategies, retirement guidance, and insurance solutions to help individuals and families work toward long-term financial security.",
-   "lat": 44.021683,
-   "lng": -92.49894,
+   "lat": 44.021563,
+   "lng": -92.49948,
    "hoursText": "Monday - Friday 8:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -12459,7 +12977,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "201 23rd Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "pathway-house",
@@ -12471,12 +12991,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Community and nonprofit",
    "subcategory": "Supportive housing",
    "description": "Pathway House provides licensed residential substance-use treatment and supportive, drug-free living for adults, helping clients build recovery skills, independence, and a successful return to community life.",
-   "lat": 44.021657,
-   "lng": -92.471324,
+   "lat": 44.021844,
+   "lng": -92.471751,
    "hoursText": "Open daily open 24 hours",
    "schedule": {
     "type": "always"
-   }
+   },
+   "address": "613 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "pella-windows-and-doors",
@@ -12488,8 +13010,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Windows and doors",
    "description": "Pella Windows & Doors of Rochester is a local showroom providing energy-efficient windows and doors, replacement and installation services, and expert guidance tailored to Minnesota homes and weather.",
-   "lat": 44.021543,
-   "lng": -92.494135,
+   "lat": 44.021274,
+   "lng": -92.494726,
    "hoursText": "Monday - Saturday 9:00 a.m. to 5:00 p.m.; Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -12531,7 +13053,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2014 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "penz-dental-care",
@@ -12543,8 +13067,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Dental",
    "description": "Penz Dental Care is a patient-focused dental practice offering personalized preventive, restorative, and cosmetic dentistry for patients of all ages.",
-   "lat": 44.022235,
-   "lng": -92.500811,
+   "lat": 44.022154,
+   "lng": -92.501132,
    "hoursText": "Monday - Thursday 8:00 a.m. to 4:30 p.m.; Closed Friday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -12574,7 +13098,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2560 2nd Street suite 100, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "phoenix-healing-center",
@@ -12586,8 +13112,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Wellness center",
    "description": "Phoenix Healing Center is a holistic mental health practice offering psychotherapy, cognitive behavioral therapy, mindfulness, spirituality-focused care, sensorimotor psychotherapy, and Reiki to support healing and personal well-being.",
-   "lat": 44.021543,
-   "lng": -92.490645
+   "lat": 44.021116,
+   "lng": -92.490944,
+   "address": "1812 2nd Street SW, Suite F, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "pinnacle-catering",
@@ -12599,12 +13127,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Catering",
    "description": "Pinnacle Catering is a full-service caterer creating customized menus and thoughtfully prepared cuisine for weddings, corporate events, receptions, conferences, and other special occasions.",
-   "lat": 44.021546,
-   "lng": -92.495814,
+   "lat": 44.021401,
+   "lng": -92.495909,
    "hoursText": "Monday - Friday 8:00 p.m. to 4:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "varies"
-   }
+   },
+   "address": "2112 2nd Street SW, Suite 100, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "primrose-school-of-rochester",
@@ -12616,8 +13146,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Education and childcare",
    "subcategory": "Preschool and childcare",
    "description": "Primrose School of Rochester is a private early education and childcare center offering nurturing, age-appropriate learning experiences designed to support children’s academic, social, and emotional development.",
-   "lat": 44.022639,
-   "lng": -92.502114,
+   "lat": 44.022347,
+   "lng": -92.502623,
    "hoursText": "Monday - Friday 6:00 a.m. to 6:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -12653,7 +13183,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2600 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "r-f-print-and-design",
@@ -12665,8 +13197,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Printing",
    "description": "RF Print & Design is a local commercial printing and design business serving customers with professional print-related services and creative solutions.",
-   "lat": 44.021354,
-   "lng": -92.49221
+   "lat": 44.020971,
+   "lng": -92.492625,
+   "address": "221 19th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "r-fleming-construction-inc",
@@ -12678,8 +13212,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Construction",
    "description": "R. Fleming Construction is a custom home builder specializing in thoughtfully designed, high-quality homes with personalized planning, craftsmanship, and hands-on guidance throughout the building process.",
-   "lat": 44.021657,
-   "lng": -92.492307,
+   "lat": 44.021874,
+   "lng": -92.492394,
    "hoursText": "Monday - Friday 9:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -12715,7 +13249,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1907 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rainbow-inn-and-cafe",
@@ -12727,8 +13263,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Inn and cafe",
    "description": "Rainbow Inn & Cafe is a conveniently located lodging property directly across from Mayo Clinic’s Saint Marys Hospital, offering a practical stay for patients, families, and other visitors.",
-   "lat": 44.021687,
-   "lng": -92.481675
+   "lat": 44.021782,
+   "lng": -92.482235,
+   "address": "1217 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "ramer-retirement-resources",
@@ -12740,8 +13278,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Retirement planning",
    "description": "Ramer Retirement Resources is a financial planning firm specializing in personalized retirement, investment, and tax planning designed to help individuals and families prepare confidently for their financial future.",
-   "lat": 44.021657,
-   "lng": -92.49396,
+   "lat": 44.021863,
+   "lng": -92.494148,
    "hoursText": "Mon-Fri 8:30 AM-5 PM.",
    "schedule": {
     "type": "weekly",
@@ -12777,7 +13315,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2001 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "red-cow",
@@ -12789,8 +13329,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Burgers",
    "description": "Red Cow is known for handcrafted gourmet burgers, creative tavern fare, craft beer, and fine wine.",
-   "lat": 44.02139,
-   "lng": -92.48408,
+   "lat": 44.021098,
+   "lng": -92.484431,
    "hoursText": "Mon closed; Tue-Fri 11 AM-10 PM; Sat-Sun 10 AM-10 PM.",
    "schedule": {
     "type": "weekly",
@@ -12832,7 +13372,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "217 14th Avenue SW, Suite 100, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "river-church",
@@ -12844,8 +13386,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Community and nonprofit",
    "subcategory": "Place of worship",
    "description": "River Church is a Christian ministry focused on worship, prayer, community outreach, and practical support for individuals and families in need.",
-   "lat": 44.021543,
-   "lng": -92.471495,
+   "lat": 44.02141,
+   "lng": -92.471816,
    "hoursText": "Monday Closed; Tuesday 10:30 a.m. to 12:30 p.m; Wednesday 6:30 p.m. to 8:30 p.m.; Thursday 10:00 a.m. to 12:00 p.m.; Closed Friday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -12869,7 +13411,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "608 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rochester-church-of-christ",
@@ -12881,8 +13425,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Community and nonprofit",
    "subcategory": "Place of worship",
    "description": "Rochester Church of Christ is a welcoming Christian congregation offering worship, Bible study, fellowship, and compassionate ministry to local residents and visitors, including families coming to Mayo Clinic.",
-   "lat": 44.021543,
-   "lng": -92.47252
+   "lat": 44.021433,
+   "lng": -92.472861,
+   "address": "632 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "quick-lane-tire-and-auto-center",
@@ -12894,8 +13440,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Automotive",
    "subcategory": "Tire and auto service",
    "description": "Quick Lane Tire & Auto Center provides convenient maintenance and repair for all makes and models, including oil changes, tires, brakes, batteries, alignments, and vehicle checkups.",
-   "lat": 44.021657,
-   "lng": -92.494009,
+   "lat": 44.02195,
+   "lng": -92.494854,
    "hoursText": "Mon-Fri 7 AM-6 PM; Sat 8 AM-4 PM; Sun closed.",
    "schedule": {
     "type": "weekly",
@@ -12937,7 +13483,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2009 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rochester-towers-condominiums",
@@ -12949,8 +13497,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Residential",
    "subcategory": "Condominiums",
    "description": "Rochester Towers Condominiums is a residential community offering convenient condo living with amenities such as an indoor pool, fitness room, heated parking, and easy access to Mayo Clinic and downtown attractions.",
-   "lat": 44.02146,
-   "lng": -92.469843
+   "lat": 44.021346,
+   "lng": -92.469977,
+   "address": "207 5th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "rochford-and-langins-llc",
@@ -12962,8 +13512,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Professional services",
    "description": "Rochford Langins Jarstad, LLC is a law firm offering trusted legal guidance in estate planning, wills and trusts, family law, real estate, business law, probate, and business succession.",
-   "lat": 44.021543,
-   "lng": -92.494135,
+   "lat": 44.021274,
+   "lng": -92.494726,
    "hoursText": "Monday - Friday 9:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -12999,7 +13549,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2014 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "ronald-mcdonald-house",
@@ -13011,8 +13563,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Community and nonprofit",
    "subcategory": "Patient hospitality house",
    "description": "Ronald McDonald House provides a welcoming home away from home with lodging, meals, activities, and supportive services for families traveling to Rochester for their child’s medical care.",
-   "lat": 44.021558,
-   "lng": -92.475536,
+   "lat": 44.021389,
+   "lng": -92.475682,
    "hoursText": "Monday - Saturday 8:00 a.m to 9:00 p.m.; Sunday 8:00 a.m. to 8:00 p.m.",
    "schedule": {
     "type": "weekly",
@@ -13060,7 +13612,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "850 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "saints-on-2nd-bar-and-grill",
@@ -13072,8 +13626,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Bar and grill",
    "description": "Saints on 2nd Bar and Grill serves American favorites like burgers and potato skins. They have wine, cocktails, beers on tap and ciders to choose from at their bar.",
-   "lat": 44.022013,
-   "lng": -92.48347,
+   "lat": 44.022054,
+   "lng": -92.483634,
    "hoursText": "Monday - Friday 6:30 a.m. to 10:00 p.m.; Saturday - Sunday 7:00 a.m. to 10:00 p.m.",
    "schedule": {
     "type": "weekly",
@@ -13121,7 +13675,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "161 13th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "sandberg-haddon-law",
@@ -13133,8 +13689,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Legal",
    "subcategory": "Law firm",
    "description": "Sandberg Haddon Law  is a law firm providing compassionate, personalized representation in personal injury, workers’ compensation, medical malpractice, and wrongful death cases.",
-   "lat": 44.021657,
-   "lng": -92.49396,
+   "lat": 44.021863,
+   "lng": -92.494148,
    "hoursText": "Monday - Friday 8:30 a.m. to 4:30 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -13170,7 +13726,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2001 2nd Street SW, Suite 155, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "sargents-on-2nd",
@@ -13182,8 +13740,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Garden center",
    "description": "Sargent’s on 2nd is a garden center offering a wide variety of indoor and outdoor plants, gardening supplies, gifts, landscaping services, and expert advice for plant lovers of all experience levels.",
-   "lat": 44.021657,
-   "lng": -92.49073,
+   "lat": 44.021916,
+   "lng": -92.490929,
    "hoursText": "Mon-Fri 8 AM-6 PM; Sat 8 AM-5 PM; Sun 9 AM-5 PM. Seasonal/holiday changes may apply.",
    "schedule": {
     "type": "weekly",
@@ -13231,7 +13789,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1811 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "semcil-living-inc",
@@ -13243,8 +13803,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Community and nonprofit",
    "subcategory": "Disability services",
    "description": "Southeastern Minnesota Center for Independent Living (SEMCIL) is a nonprofit that empowers people of all ages with disabilities through independent-living support, advocacy, assistive technology, skills training, peer support, and community-access services.",
-   "lat": 44.021588,
-   "lng": -92.497652,
+   "lat": 44.021272,
+   "lng": -92.497372,
    "hoursText": "Mon-Fri 8 AM-4:30 PM.",
    "schedule": {
     "type": "weekly",
@@ -13280,7 +13840,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2200 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "shorewood-senior-campus",
@@ -13292,12 +13854,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Residential",
    "subcategory": "Senior living",
    "description": "Shorewood Senior Campus is a welcoming 55+ senior living community offering independent apartments, assisted living, dementia care, and short-term respite care with a variety of amenities and personalized support.",
-   "lat": 44.021657,
-   "lng": -92.494668,
+   "lat": 44.02302,
+   "lng": -92.4948,
    "hoursText": "Open daily open 24 hours",
    "schedule": {
     "type": "always"
-   }
+   },
+   "address": "2115 2nd Street Sw, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "southeast-scuba-escape",
@@ -13309,8 +13873,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Scuba shop",
    "description": "Southeast Scuba Escape is a local scuba diving business offering diving instruction, equipment, and resources to help beginners and experienced divers safely explore the underwater world.",
-   "lat": 44.021595,
-   "lng": -92.489331,
+   "lat": 44.021928,
+   "lng": -92.489682,
    "hoursText": "Tue-Fri 9 AM-6 PM; Sat 10 AM-4 PM; Sun-Mon closed.",
    "schedule": {
     "type": "weekly",
@@ -13346,7 +13910,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1741 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "southwest-church-of-christ",
@@ -13358,8 +13924,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Community and nonprofit",
    "subcategory": "Place of worship",
    "description": "Southwest Church of Christ is a local Christian congregation serving the Rochester community through worship and faith-centered fellowship.",
-   "lat": 44.021543,
-   "lng": -92.493985,
+   "lat": 44.02139,
+   "lng": -92.494249,
    "hoursText": "Monday - Tuesday Closed; Wednesday 7:00 p.m. to 8:00 p.m.; Closed Thursday - Saturday; Sunday 9:30 a.m. to 11:30 a.m.",
    "schedule": {
     "type": "weekly",
@@ -13377,7 +13943,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "2002 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "spyhouse-coffee-roasters",
@@ -13389,8 +13957,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Coffee shop",
    "description": "Spyhouse Coffee Roasters is a specialty coffee shop offering thoughtfully sourced and roasted coffee, espresso drinks, and a selection of wine and local craft beer.",
-   "lat": 44.021657,
-   "lng": -92.47118,
+   "lat": 44.021881,
+   "lng": -92.471393,
    "hoursText": "Mon-Thu 6 AM-9 PM; Fri 6 AM-10 PM; Sat-Sun 7 AM-10 PM.",
    "schedule": {
     "type": "weekly",
@@ -13438,7 +14006,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "601 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "the-berkman",
@@ -13493,7 +14063,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "217 14th Avenuenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded via US Census (street interpolation)"
   },
   {
    "id": "the-collaborative-salon",
@@ -13505,12 +14077,14 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Hair salon",
    "description": "The Collaborative Salon can help you feel confident about your hair by providingf stylish haircuts, specialty services and luxury coloring options.",
-   "lat": 44.022809,
-   "lng": -92.49915,
+   "lat": 44.022565,
+   "lng": -92.500072,
    "hoursText": "Tue-Sat, by appointment only.",
    "schedule": {
     "type": "varies"
-   }
+   },
+   "address": "121 23rd Avenue SW Ste 103, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "the-dental-doctors-dr-brandon-kelly-and-dr-philip-wadkins",
@@ -13522,8 +14096,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Dental",
    "description": "The Dental Doctors is a local dental practice providing dental care for the entire family.",
-   "lat": 44.021659,
-   "lng": -92.473429,
+   "lat": 44.021909,
+   "lng": -92.473521,
    "hoursText": "Monday - Friday 7:00 a.m. to 6:00 p.m.; Closed Saturday - Sunday",
    "schedule": {
     "type": "weekly",
@@ -13559,7 +14133,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "723 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "toppers-pizza",
@@ -13571,8 +14147,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Pizza",
    "description": "Toppers Pizza is a casual pizza spot known for made-from-scratch dough, Wisconsin mozzarella, customizable and specialty pizzas, signature Topperstix, wings, and convenient delivery and carryout.",
-   "lat": 44.021789,
-   "lng": -92.486011,
+   "lat": 44.021875,
+   "lng": -92.486291,
    "hoursText": "Monday - Sunday 10:30 a.m. to 3:00 a.m.",
    "schedule": {
     "type": "weekly",
@@ -13648,7 +14224,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "187 16th Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "towneplace-suites-rochester-mayo-clinic-area",
@@ -13660,8 +14238,10 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Hotel",
    "description": "TownePlace Suites by Marriott Rochester Mayo Clinic Area is a fantastic extended-stay option with spacious, clean suites, full kitchens, complimentary breakfast, and a convenient free shuttle to Mayo Clinic.",
-   "lat": 44.021657,
-   "lng": -92.47118
+   "lat": 44.021881,
+   "lng": -92.471393,
+   "address": "601 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "uptown-rochester-smoke-shop",
@@ -13673,8 +14253,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Smoke shop",
    "description": "Uptown Rochester Smoke Shop serves adult customers with smoking-related products and accessories.",
-   "lat": 44.021543,
-   "lng": -92.492404,
+   "lat": 44.021409,
+   "lng": -92.492733,
    "hoursText": "Monday - Sunday 10:00 a.m. to 9:00 p.m.",
    "schedule": {
     "type": "weekly",
@@ -13722,7 +14302,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1912 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "vanity-fur",
@@ -13734,8 +14316,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Pet grooming",
    "description": "Vanity Fur is a full-service pet grooming salon providing caring, personalized grooming for dogs and cats, with a focus on keeping pets healthy, comfortable, and looking their best.",
-   "lat": 44.021543,
-   "lng": -92.492307,
+   "lat": 44.021421,
+   "lng": -92.492502,
    "hoursText": "Monday - Wednesday 9:00 a.m. to 4:30 p.m.; Thursday 9:00 a.m. to 8:00 p.m.; Friday - Closed Sunday",
    "schedule": {
     "type": "weekly",
@@ -13765,7 +14347,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "1906 2nd Street SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "west-end-salon-and-spa",
@@ -13820,7 +14404,9 @@ window.WHATS_OPEN_DATA = {
       ]
      ]
     }
-   }
+   },
+   "address": "217 14th Avenuenue SW, Suite 200, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded via US Census (street interpolation)"
   },
   {
    "id": "associated-bank-2",
@@ -13868,8 +14454,10 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "lat": 44.022605,
-   "lng": -92.464575
+   "lat": 44.022253,
+   "lng": -92.464675,
+   "address": "101 1st Ave SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "ell-boutique-2",
@@ -13923,8 +14511,10 @@ window.WHATS_OPEN_DATA = {
      ]
     }
    },
-   "lat": 44.022605,
-   "lng": -92.464575
+   "lat": 44.022253,
+   "lng": -92.464675,
+   "address": "101 1st Ave SW, Suite 4, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   },
   {
    "id": "hanger-clinic-2",
@@ -13936,8 +14526,162 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Prosthetics and orthotics",
    "description": "Hanger Clinic provides personalized prosthetic and orthotic care designed to help patients improve mobility, comfort, and independence.",
-   "lat": 44.022019,
-   "lng": -92.464582
+   "lat": 44.021823,
+   "lng": -92.464716,
+   "address": "155 1st Avenue SW, Rochester, MN 55902",
+   "geocodeStatus": "Geocoded from Olmsted County address points"
+  },
+  {
+   "id": "small-business-development-center-sbdc",
+   "name": "Small Business Development Center (SBDC)",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Community and nonprofit",
+   "subcategory": "Business support",
+   "description": "The SBDC offers at no cost, confidential consulting to help businesses in SE Minnesota identify, understand and overcome the challenges of starting a business, running a successful business, and developing exit strategies.",
+   "address": "221 1st Ave SW",
+   "hoursText": "Monday - Friday 8 a.m. to 4:30 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       990
+      ]
+     ],
+     "2": [
+      [
+       480,
+       990
+      ]
+     ],
+     "3": [
+      [
+       480,
+       990
+      ]
+     ],
+     "4": [
+      [
+       480,
+       990
+      ]
+     ],
+     "5": [
+      [
+       480,
+       990
+      ]
+     ]
+    }
+   },
+   "lat": 44.020932,
+   "lng": -92.464712,
+   "geocodeStatus": "Geocoded from Olmsted County address points"
+  },
+  {
+   "id": "rochester-tennis-connection",
+   "name": "Rochester Tennis Connection",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Personal care and wellness",
+   "subcategory": "Sports and fitness",
+   "description": "Rochester Tennis Connection is a year-round tennis facility offering indoor and outdoor courts, lessons and programs for all ages and skill levels, equipment rentals, and a full-service pro shop.",
+   "address": "2700 Country Club Road SW, Rochester, MN 55902",
+   "hoursText": "Monday - Sunday 8:00 a.m. to 10:00 a.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       480,
+       600
+      ]
+     ],
+     "1": [
+      [
+       480,
+       600
+      ]
+     ],
+     "2": [
+      [
+       480,
+       600
+      ]
+     ],
+     "3": [
+      [
+       480,
+       600
+      ]
+     ],
+     "4": [
+      [
+       480,
+       600
+      ]
+     ],
+     "5": [
+      [
+       480,
+       600
+      ]
+     ],
+     "6": [
+      [
+       480,
+       600
+      ]
+     ]
+    }
+   },
+   "lat": 44.02232,
+   "lng": -92.503617,
+   "geocodeStatus": "Geocoded via Nominatim (OpenStreetMap)"
+  },
+  {
+   "id": "the-grand-shops-kahler-and-marriott",
+   "name": "The Grand Shops - Kahler & Marriott",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Shopping centers and coworking",
+   "subcategory": "Shopping center",
+   "description": "The Grand Shops of Kahler & Marriott is a convenient collection of shops, restaurants, and personal services located within the Kahler and Marriott hotels and directly connected to Mayo Clinic.",
+   "address": "20 2nd Ave SW, Rochester, MN 55902",
+   "hoursText": "Open 24 hours",
+   "schedule": {
+    "type": "always"
+   },
+   "lat": 44.022954,
+   "lng": -92.4657,
+   "geocodeStatus": "Geocoded from Olmsted County address points"
+  },
+  {
+   "id": "bnai-israel-synagogue",
+   "name": "B'nai Israel Synagogue",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Community and nonprofit",
+   "subcategory": "Place of worship",
+   "description": "B’nai Israel Synagogue is a Jewish congregation offering worship services, holiday celebrations, educational programs, fellowship, and support for local residents and visitors to the Rochester community.",
+   "address": "150 7th Avenue SW, Rochester, MN 55902",
+   "hoursText": "M-W-F 8-3:30 Office Hours (Previously reported; confirm current hours and days.)",
+   "schedule": {
+    "type": "varies"
+   },
+   "lat": 44.022057,
+   "lng": -92.472177,
+   "geocodeStatus": "Geocoded from Olmsted County address points"
   }
  ]
 };
